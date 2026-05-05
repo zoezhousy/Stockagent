@@ -4,7 +4,7 @@ import openai
 import tiktoken
 import random
 import requests
-import google.generativeai as genai
+import os
 
 import util
 from log.custom_logger import log
@@ -67,63 +67,52 @@ class Agent:
         self.quit = False
 
     def run_api(self, prompt, temperature: float = 1):
-        if 'gpt' in self.model:
-            return self.run_api_gpt(prompt, temperature)
-        elif 'gemini' in self.model:
-            return self.run_api_gemini(prompt, temperature)
+        return self.run_api_openrouter(prompt, temperature)
 
-    def run_api_gemini(self, prompt, temperature: float = 1):
-        genai.configure(api_key=util.GOOGLE_API_KEY, transport='rest')
-        generation_config = genai.types.GenerationConfig(
-            candidate_count=1,
-            temperature=temperature)
-        model = genai.GenerativeModel(self.model)
-        self.chat_history.append({"role": "user", "parts": [prompt]})
-        max_retry = 2
-        retry = 0
-        while retry < max_retry:
-            try:
-                response = model.generate_content(contents=self.chat_history, generation_config=generation_config)
-                new_message_dict = {"role": 'model', "parts": [response.text]}
-                self.chat_history.append(new_message_dict)
-                return response.text
-            except Exception as e:
-                log.logger.warning("Gemini api retry...{}".format(e))
-                retry += 1
-                time.sleep(1)
-        log.logger.error("ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.")
-        return ""
+    def run_api_openrouter(self, prompt, temperature: float = 1):
+        client = openai.OpenAI(
+            base_url="https://openrouter.ai/api/v1",
+            api_key=util.OPENROUTER_API_KEY,
+        )
 
-
-    def run_api_gpt(self, prompt, temperature: float = 1):
-        openai.api_key = util.OPENAI_API_KEY
-        client = openai.OpenAI(api_key=openai.api_key)
         self.chat_history.append({"role": "user", "content": prompt})
+        if len(self.chat_history) > util.OPENROUTER_MAX_HISTORY_MESSAGES:
+            self.chat_history = self.chat_history[-util.OPENROUTER_MAX_HISTORY_MESSAGES:]
         max_retry = 2
         retry = 0
-
-        # just cut off the overflow tokens
-        # tokens = encoding.encode(self.chat_history)
-
         while retry < max_retry:
             try:
                 response = client.chat.completions.create(
                     model=self.model,
                     messages=self.chat_history,
                     temperature=temperature,
+                    max_tokens=util.OPENROUTER_MAX_TOKENS,
+                    extra_body={"reasoning": {"enabled": True}},
                 )
-                new_message_dict = {"role": response.choices[0].message.role,
-                                    "content": response.choices[0].message.content}
+                message = response.choices[0].message
+                new_message_dict = {
+                    "role": message.role,
+                    "content": message.content
+                }
+                if hasattr(message, "reasoning_details") and message.reasoning_details is not None:
+                    new_message_dict["reasoning_details"] = message.reasoning_details
                 self.chat_history.append(new_message_dict)
-                resp = response.choices[0].message.content
-                return resp
-            except openai.OpenAIError as e:
-                log.logger.warning("OpenAI api retry...{}".format(e))
+                return message.content
+            except openai.APIStatusError as e:
+                # No credit / max tokens exceeded: don't retry to avoid long blocking loops.
+                if e.status_code == 402:
+                    log.logger.error("OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.")
+                    return ""
+                log.logger.warning("OpenRouter status error retry...{}".format(e))
                 retry += 1
                 time.sleep(1)
-        log.logger.error("ERROR: OPENAI API FAILED. SKIP THIS INTERACTION.")
+            except Exception as e:
+                log.logger.warning("OpenRouter api retry...{}".format(e))
+                retry += 1
+                time.sleep(1)
+        log.logger.error("ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.")
         return ""
-
+    
     def get_total_proper(self, stock_a_price, stock_b_price):
         return self.stock_a_amount * stock_a_price + self.stock_b_amount * stock_b_price + self.cash
 

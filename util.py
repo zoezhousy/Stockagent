@@ -1,13 +1,19 @@
 """
 DONT FORGET TO DELETE!!!
 """
-OPENAI_API_KEY = ""
-GOOGLE_API_KEY = ""
+import os
 
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
+GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY", "")
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "")
+DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "")
+OPENROUTER_MAX_TOKENS = int(os.getenv("OPENROUTER_MAX_TOKENS", "1024"))
+OPENROUTER_MAX_HISTORY_MESSAGES = int(os.getenv("OPENROUTER_MAX_HISTORY_MESSAGES", "12"))
 # 基础设置
-AGENTS_NUM = 50  # 交易员数量
-TOTAL_DATE = 264   # 模拟时长
-TOTAL_SESSION = 3   # 每日交易次数
+AGENTS_NUM = 3  # 交易员数量
+TOTAL_DATE = 5   # 模拟时长
+TOTAL_SESSION = 1   # 每日交易次数
+
 
 # 股票初始价格
 STOCK_A_INITIAL_PRICE = 30

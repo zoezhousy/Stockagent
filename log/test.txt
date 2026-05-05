@@ -1,0 +1,1001 @@
+2026-05-05 21:23:14,335 - Stocklogger - DEBUG - Agents initial...
+2026-05-05 21:23:14,335 - Stocklogger - DEBUG - cash: 672454.3383351467, stock a: 21058, stock b:43782, debt: [{'loan': 'yes', 'amount': 2960054.45697998, 'loan_type': 1, 'repayment_date': 88}]
+2026-05-05 21:23:14,336 - Stocklogger - DEBUG - cash: 2419413.9573108726, stock a: 41998, stock b:16958, debt: [{'loan': 'yes', 'amount': 4118507.857618056, 'loan_type': 2, 'repayment_date': 22}]
+2026-05-05 21:23:14,336 - Stocklogger - DEBUG - cash: 3220552.792845529, stock a: 33328, stock b:136, debt: [{'loan': 'yes', 'amount': 347680.36291086377, 'loan_type': 0, 'repayment_date': 44}]
+2026-05-05 21:23:14,336 - Stocklogger - DEBUG - cash: 961340.2533827581, stock a: 86562, stock b:15951, debt: [{'loan': 'yes', 'amount': 3300759.494101157, 'loan_type': 1, 'repayment_date': 154}]
+2026-05-05 21:23:14,336 - Stocklogger - DEBUG - cash: 3801780.901654934, stock a: 3646, stock b:25695, debt: [{'loan': 'yes', 'amount': 3700479.94234705, 'loan_type': 2, 'repayment_date': 264}]
+2026-05-05 21:23:14,337 - Stocklogger - DEBUG - cash: 2662451.7868597857, stock a: 38400, stock b:12490, debt: [{'loan': 'yes', 'amount': 3896450.957769419, 'loan_type': 1, 'repayment_date': 132}]
+2026-05-05 21:23:14,337 - Stocklogger - DEBUG - cash: 1408654.2351344132, stock a: 4606, stock b:34028, debt: [{'loan': 'yes', 'amount': 2610501.26686702, 'loan_type': 1, 'repayment_date': 242}]
+2026-05-05 21:23:14,337 - Stocklogger - DEBUG - cash: 1875242.2916866706, stock a: 44590, stock b:40730, debt: [{'loan': 'yes', 'amount': 4709074.497457225, 'loan_type': 0, 'repayment_date': 88}]
+2026-05-05 21:23:14,337 - Stocklogger - DEBUG - cash: 1437492.7658252423, stock a: 65517, stock b:33396, debt: [{'loan': 'yes', 'amount': 1942958.5645947645, 'loan_type': 0, 'repayment_date': 22}]
+2026-05-05 21:23:14,337 - Stocklogger - DEBUG - cash: 815189.1298848545, stock a: 16709, stock b:4604, debt: [{'loan': 'yes', 'amount': 620665.7927799864, 'loan_type': 2, 'repayment_date': 44}]
+2026-05-05 21:23:14,338 - Stocklogger - DEBUG - cash: 349094.32797697425, stock a: 43208, stock b:22544, debt: [{'loan': 'yes', 'amount': 834967.881049939, 'loan_type': 2, 'repayment_date': 264}]
+2026-05-05 21:23:14,338 - Stocklogger - DEBUG - cash: 532043.3940261732, stock a: 51324, stock b:21685, debt: [{'loan': 'yes', 'amount': 18701.355394930564, 'loan_type': 0, 'repayment_date': 110}]
+2026-05-05 21:23:14,338 - Stocklogger - DEBUG - cash: 2990072.3733533137, stock a: 7095, stock b:15334, debt: [{'loan': 'yes', 'amount': 1962553.758699101, 'loan_type': 0, 'repayment_date': 264}]
+2026-05-05 21:23:14,338 - Stocklogger - DEBUG - cash: 1281878.6788755548, stock a: 84696, stock b:24798, debt: [{'loan': 'yes', 'amount': 859193.559627901, 'loan_type': 2, 'repayment_date': 242}]
+2026-05-05 21:23:14,338 - Stocklogger - DEBUG - cash: 3199585.3045267942, stock a: 35378, stock b:9375, debt: [{'loan': 'yes', 'amount': 3352948.507180158, 'loan_type': 2, 'repayment_date': 220}]
+2026-05-05 21:23:14,338 - Stocklogger - DEBUG - cash: 2214975.1728192708, stock a: 44984, stock b:5927, debt: [{'loan': 'yes', 'amount': 1835336.6095874163, 'loan_type': 2, 'repayment_date': 264}]
+2026-05-05 21:23:14,339 - Stocklogger - DEBUG - cash: 1250226.9051693676, stock a: 80656, stock b:2308, debt: [{'loan': 'yes', 'amount': 3119009.1208814564, 'loan_type': 0, 'repayment_date': 88}]
+2026-05-05 21:23:14,339 - Stocklogger - DEBUG - cash: 779595.348406148, stock a: 93551, stock b:26430, debt: [{'loan': 'yes', 'amount': 337511.66401135735, 'loan_type': 2, 'repayment_date': 198}]
+2026-05-05 21:23:14,339 - Stocklogger - DEBUG - cash: 2677673.257529683, stock a: 54823, stock b:13798, debt: [{'loan': 'yes', 'amount': 2579344.008627832, 'loan_type': 1, 'repayment_date': 198}]
+2026-05-05 21:23:14,339 - Stocklogger - DEBUG - cash: 863871.8973336873, stock a: 81844, stock b:2650, debt: [{'loan': 'yes', 'amount': 3322716.426296718, 'loan_type': 1, 'repayment_date': 110}]
+2026-05-05 21:23:14,339 - Stocklogger - DEBUG - cash: 2749377.3307610718, stock a: 70317, stock b:1323, debt: [{'loan': 'yes', 'amount': 815991.8619190503, 'loan_type': 1, 'repayment_date': 22}]
+2026-05-05 21:23:14,339 - Stocklogger - DEBUG - cash: 497545.3813971603, stock a: 141595, stock b:3086, debt: [{'loan': 'yes', 'amount': 1854239.5530493848, 'loan_type': 2, 'repayment_date': 44}]
+2026-05-05 21:23:14,340 - Stocklogger - DEBUG - cash: 715842.5519536987, stock a: 32268, stock b:45128, debt: [{'loan': 'yes', 'amount': 2874188.827019015, 'loan_type': 2, 'repayment_date': 154}]
+2026-05-05 21:23:14,340 - Stocklogger - DEBUG - cash: 1307388.054839561, stock a: 73310, stock b:24133, debt: [{'loan': 'yes', 'amount': 1480243.6888907028, 'loan_type': 2, 'repayment_date': 154}]
+2026-05-05 21:23:14,340 - Stocklogger - DEBUG - cash: 2230505.2148805805, stock a: 75925, stock b:6300, debt: [{'loan': 'yes', 'amount': 4660606.963685207, 'loan_type': 0, 'repayment_date': 220}]
+2026-05-05 21:23:14,341 - Stocklogger - DEBUG - cash: 883042.6128275614, stock a: 31650, stock b:12364, debt: [{'loan': 'yes', 'amount': 1994445.7041912384, 'loan_type': 2, 'repayment_date': 44}]
+2026-05-05 21:23:14,360 - Stocklogger - DEBUG - cash: 3649750.94787369, stock a: 15552, stock b:9629, debt: [{'loan': 'yes', 'amount': 4432838.239186724, 'loan_type': 1, 'repayment_date': 44}]
+2026-05-05 21:23:14,361 - Stocklogger - DEBUG - cash: 583082.0377567664, stock a: 42971, stock b:43824, debt: [{'loan': 'yes', 'amount': 2012021.5659978213, 'loan_type': 1, 'repayment_date': 88}]
+2026-05-05 21:23:14,361 - Stocklogger - DEBUG - cash: 2541656.181214432, stock a: 16890, stock b:42900, debt: [{'loan': 'yes', 'amount': 737177.2751775351, 'loan_type': 0, 'repayment_date': 44}]
+2026-05-05 21:23:14,361 - Stocklogger - DEBUG - cash: 1727585.7545290412, stock a: 71065, stock b:21668, debt: [{'loan': 'yes', 'amount': 3906746.424869287, 'loan_type': 2, 'repayment_date': 22}]
+2026-05-05 21:23:14,362 - Stocklogger - DEBUG - cash: 1643739.8789474394, stock a: 26391, stock b:58487, debt: [{'loan': 'yes', 'amount': 4219396.272026133, 'loan_type': 1, 'repayment_date': 44}]
+2026-05-05 21:23:14,362 - Stocklogger - DEBUG - cash: 2516671.1196172615, stock a: 57658, stock b:13711, debt: [{'loan': 'yes', 'amount': 2362220.733760772, 'loan_type': 1, 'repayment_date': 242}]
+2026-05-05 21:23:14,362 - Stocklogger - DEBUG - cash: 258224.97917282916, stock a: 44626, stock b:14035, debt: [{'loan': 'yes', 'amount': 1637677.7525704433, 'loan_type': 2, 'repayment_date': 22}]
+2026-05-05 21:23:14,363 - Stocklogger - DEBUG - cash: 993346.0960957152, stock a: 91280, stock b:18754, debt: [{'loan': 'yes', 'amount': 4435409.850112129, 'loan_type': 1, 'repayment_date': 220}]
+2026-05-05 21:23:14,363 - Stocklogger - DEBUG - cash: 2422669.994694231, stock a: 3326, stock b:27159, debt: [{'loan': 'yes', 'amount': 2274016.007964154, 'loan_type': 1, 'repayment_date': 66}]
+2026-05-05 21:23:14,363 - Stocklogger - DEBUG - cash: 157877.1814220037, stock a: 522, stock b:25865, debt: [{'loan': 'yes', 'amount': 78379.55308663547, 'loan_type': 0, 'repayment_date': 110}]
+2026-05-05 21:23:14,364 - Stocklogger - DEBUG - cash: 2339291.928326754, stock a: 64396, stock b:16284, debt: [{'loan': 'yes', 'amount': 756283.0463202663, 'loan_type': 0, 'repayment_date': 154}]
+2026-05-05 21:23:14,364 - Stocklogger - DEBUG - cash: 660488.2396290851, stock a: 47601, stock b:33697, debt: [{'loan': 'yes', 'amount': 1994380.6785957702, 'loan_type': 0, 'repayment_date': 110}]
+2026-05-05 21:23:14,365 - Stocklogger - DEBUG - cash: 2189977.275136979, stock a: 49660, stock b:21339, debt: [{'loan': 'yes', 'amount': 1891019.4768183003, 'loan_type': 2, 'repayment_date': 44}]
+2026-05-05 21:23:14,365 - Stocklogger - DEBUG - cash: 86424.86007245709, stock a: 46750, stock b:35946, debt: [{'loan': 'yes', 'amount': 2527676.759356375, 'loan_type': 1, 'repayment_date': 176}]
+2026-05-05 21:23:14,365 - Stocklogger - DEBUG - cash: 1901449.4078478522, stock a: 43793, stock b:24489, debt: [{'loan': 'yes', 'amount': 3547944.4805616583, 'loan_type': 2, 'repayment_date': 198}]
+2026-05-05 21:23:14,365 - Stocklogger - DEBUG - cash: 1886320.329912799, stock a: 29203, stock b:52420, debt: [{'loan': 'yes', 'amount': 2833241.466597763, 'loan_type': 0, 'repayment_date': 88}]
+2026-05-05 21:23:14,366 - Stocklogger - DEBUG - cash: 2281800.3735264437, stock a: 29999, stock b:45016, debt: [{'loan': 'yes', 'amount': 2683847.9200051078, 'loan_type': 0, 'repayment_date': 66}]
+2026-05-05 21:23:14,366 - Stocklogger - DEBUG - cash: 670057.8457961159, stock a: 46507, stock b:51501, debt: [{'loan': 'yes', 'amount': 2337981.2411662494, 'loan_type': 0, 'repayment_date': 132}]
+2026-05-05 21:23:14,366 - Stocklogger - DEBUG - cash: 685937.4083170383, stock a: 33702, stock b:44078, debt: [{'loan': 'yes', 'amount': 2262492.639803294, 'loan_type': 1, 'repayment_date': 220}]
+2026-05-05 21:23:14,367 - Stocklogger - DEBUG - cash: 299951.34224290785, stock a: 34463, stock b:83859, debt: [{'loan': 'yes', 'amount': 4141679.486532849, 'loan_type': 1, 'repayment_date': 242}]
+2026-05-05 21:23:14,367 - Stocklogger - DEBUG - cash: 62868.44285631532, stock a: 23642, stock b:74465, debt: [{'loan': 'yes', 'amount': 1447180.9572893847, 'loan_type': 2, 'repayment_date': 220}]
+2026-05-05 21:23:14,367 - Stocklogger - DEBUG - cash: 2352423.5915295333, stock a: 33158, stock b:17319, debt: [{'loan': 'yes', 'amount': 1936088.052170652, 'loan_type': 0, 'repayment_date': 22}]
+2026-05-05 21:23:14,367 - Stocklogger - DEBUG - cash: 2191174.512449031, stock a: 12829, stock b:22618, debt: [{'loan': 'yes', 'amount': 3382985.3115516156, 'loan_type': 0, 'repayment_date': 242}]
+2026-05-05 21:23:14,367 - Stocklogger - DEBUG - cash: 1221056.2852587919, stock a: 11796, stock b:57522, debt: [{'loan': 'yes', 'amount': 911397.5895513793, 'loan_type': 1, 'repayment_date': 198}]
+2026-05-05 21:23:14,368 - Stocklogger - DEBUG - --------Simulation Start!--------
+2026-05-05 21:23:14,368 - Stocklogger - DEBUG - --------DAY 1---------
+2026-05-05 21:24:12,173 - Stocklogger - DEBUG - Agents initial...
+2026-05-05 21:24:12,174 - Stocklogger - DEBUG - cash: 802784.9439247798, stock a: 11898, stock b:53933, debt: [{'loan': 'yes', 'amount': 1551031.5508397266, 'loan_type': 1, 'repayment_date': 44}]
+2026-05-05 21:24:12,174 - Stocklogger - DEBUG - cash: 350902.0561424936, stock a: 107559, stock b:7491, debt: [{'loan': 'yes', 'amount': 3168467.5981370243, 'loan_type': 2, 'repayment_date': 242}]
+2026-05-05 21:24:12,175 - Stocklogger - DEBUG - cash: 649657.9661992969, stock a: 75057, stock b:7446, debt: [{'loan': 'yes', 'amount': 862340.8146669992, 'loan_type': 0, 'repayment_date': 88}]
+2026-05-05 21:24:12,175 - Stocklogger - DEBUG - cash: 1650847.2958351607, stock a: 61639, stock b:2507, debt: [{'loan': 'yes', 'amount': 3542402.9603031036, 'loan_type': 1, 'repayment_date': 132}]
+2026-05-05 21:24:12,175 - Stocklogger - DEBUG - cash: 17865.353552859455, stock a: 47442, stock b:15003, debt: [{'loan': 'yes', 'amount': 1099283.872284717, 'loan_type': 0, 'repayment_date': 198}]
+2026-05-05 21:24:12,175 - Stocklogger - DEBUG - cash: 2915285.3070464754, stock a: 3162, stock b:30528, debt: [{'loan': 'yes', 'amount': 1720408.0331494536, 'loan_type': 0, 'repayment_date': 154}]
+2026-05-05 21:24:12,176 - Stocklogger - DEBUG - cash: 58520.76171097675, stock a: 154484, stock b:2532, debt: [{'loan': 'yes', 'amount': 2842141.7790949172, 'loan_type': 2, 'repayment_date': 22}]
+2026-05-05 21:24:12,176 - Stocklogger - DEBUG - cash: 1030609.7886017029, stock a: 59004, stock b:6785, debt: [{'loan': 'yes', 'amount': 201865.5422866833, 'loan_type': 2, 'repayment_date': 132}]
+2026-05-05 21:24:12,176 - Stocklogger - DEBUG - cash: 1079565.5405694742, stock a: 105891, stock b:695, debt: [{'loan': 'yes', 'amount': 1404580.268433005, 'loan_type': 2, 'repayment_date': 176}]
+2026-05-05 21:24:12,176 - Stocklogger - DEBUG - cash: 2942183.478727785, stock a: 7671, stock b:43944, debt: [{'loan': 'yes', 'amount': 2047379.3060572243, 'loan_type': 0, 'repayment_date': 154}]
+2026-05-05 21:24:12,177 - Stocklogger - DEBUG - cash: 1965793.4709609863, stock a: 62307, stock b:6208, debt: [{'loan': 'yes', 'amount': 1429642.036740118, 'loan_type': 1, 'repayment_date': 264}]
+2026-05-05 21:24:12,177 - Stocklogger - DEBUG - cash: 968066.5087657397, stock a: 109304, stock b:14929, debt: [{'loan': 'yes', 'amount': 4110900.0504185297, 'loan_type': 1, 'repayment_date': 220}]
+2026-05-05 21:24:12,177 - Stocklogger - DEBUG - cash: 2115777.536592624, stock a: 1634, stock b:56458, debt: [{'loan': 'yes', 'amount': 1832326.555328575, 'loan_type': 1, 'repayment_date': 88}]
+2026-05-05 21:24:12,177 - Stocklogger - DEBUG - cash: 2046551.9276101368, stock a: 54756, stock b:22695, debt: [{'loan': 'yes', 'amount': 3916902.666989783, 'loan_type': 2, 'repayment_date': 220}]
+2026-05-05 21:24:12,177 - Stocklogger - DEBUG - cash: 712961.3896455228, stock a: 5437, stock b:101638, debt: [{'loan': 'yes', 'amount': 4371223.549644025, 'loan_type': 1, 'repayment_date': 132}]
+2026-05-05 21:24:12,178 - Stocklogger - DEBUG - cash: 1170386.414569502, stock a: 11281, stock b:39595, debt: [{'loan': 'yes', 'amount': 2606788.182594228, 'loan_type': 2, 'repayment_date': 132}]
+2026-05-05 21:24:12,178 - Stocklogger - DEBUG - cash: 2879832.252413656, stock a: 21477, stock b:36651, debt: [{'loan': 'yes', 'amount': 4685534.517396554, 'loan_type': 2, 'repayment_date': 44}]
+2026-05-05 21:24:12,178 - Stocklogger - DEBUG - cash: 9241.843728649003, stock a: 1192, stock b:112381, debt: [{'loan': 'yes', 'amount': 1272585.1186974752, 'loan_type': 1, 'repayment_date': 66}]
+2026-05-05 21:24:12,178 - Stocklogger - DEBUG - cash: 791076.4117519942, stock a: 17296, stock b:57958, debt: [{'loan': 'yes', 'amount': 3254759.8613024945, 'loan_type': 0, 'repayment_date': 154}]
+2026-05-05 21:24:12,178 - Stocklogger - DEBUG - cash: 31396.832660190998, stock a: 108332, stock b:37297, debt: [{'loan': 'yes', 'amount': 711155.1920950481, 'loan_type': 0, 'repayment_date': 154}]
+2026-05-05 21:24:12,179 - Stocklogger - DEBUG - cash: 90582.77268369608, stock a: 34938, stock b:95456, debt: [{'loan': 'yes', 'amount': 2902391.7182856635, 'loan_type': 1, 'repayment_date': 242}]
+2026-05-05 21:24:12,179 - Stocklogger - DEBUG - cash: 1161645.7286744425, stock a: 30024, stock b:52722, debt: [{'loan': 'yes', 'amount': 3128616.7368839323, 'loan_type': 0, 'repayment_date': 220}]
+2026-05-05 21:24:12,179 - Stocklogger - DEBUG - cash: 2970310.2433619257, stock a: 31562, stock b:17882, debt: [{'loan': 'yes', 'amount': 4391124.050005133, 'loan_type': 0, 'repayment_date': 154}]
+2026-05-05 21:24:12,179 - Stocklogger - DEBUG - cash: 228594.17845222662, stock a: 3076, stock b:54906, debt: [{'loan': 'yes', 'amount': 12346.89439858383, 'loan_type': 1, 'repayment_date': 176}]
+2026-05-05 21:24:12,180 - Stocklogger - DEBUG - cash: 2075645.7278410539, stock a: 80136, stock b:5344, debt: [{'loan': 'yes', 'amount': 1958392.6215620607, 'loan_type': 1, 'repayment_date': 88}]
+2026-05-05 21:24:12,180 - Stocklogger - DEBUG - cash: 517450.075671248, stock a: 2344, stock b:73889, debt: [{'loan': 'yes', 'amount': 3131481.5344403093, 'loan_type': 1, 'repayment_date': 66}]
+2026-05-05 21:24:12,201 - Stocklogger - DEBUG - cash: 506211.4491414721, stock a: 70947, stock b:50431, debt: [{'loan': 'yes', 'amount': 4192203.3227002886, 'loan_type': 1, 'repayment_date': 132}]
+2026-05-05 21:24:12,202 - Stocklogger - DEBUG - cash: 629872.4216373297, stock a: 71236, stock b:32442, debt: [{'loan': 'yes', 'amount': 2459885.8792584287, 'loan_type': 1, 'repayment_date': 220}]
+2026-05-05 21:24:12,202 - Stocklogger - DEBUG - cash: 1338007.7816491714, stock a: 24975, stock b:15827, debt: [{'loan': 'yes', 'amount': 88033.29727828824, 'loan_type': 0, 'repayment_date': 110}]
+2026-05-05 21:24:12,203 - Stocklogger - DEBUG - cash: 238067.28757073125, stock a: 116347, stock b:13879, debt: [{'loan': 'yes', 'amount': 2234572.221885017, 'loan_type': 1, 'repayment_date': 242}]
+2026-05-05 21:24:12,203 - Stocklogger - DEBUG - cash: 1228115.4410885859, stock a: 36171, stock b:19883, debt: [{'loan': 'yes', 'amount': 2048758.123458867, 'loan_type': 2, 'repayment_date': 110}]
+2026-05-05 21:24:12,203 - Stocklogger - DEBUG - cash: 502636.3767136999, stock a: 54209, stock b:26677, debt: [{'loan': 'yes', 'amount': 1121621.5610967034, 'loan_type': 2, 'repayment_date': 132}]
+2026-05-05 21:24:12,203 - Stocklogger - DEBUG - cash: 1151552.6320812537, stock a: 39564, stock b:12090, debt: [{'loan': 'yes', 'amount': 2608626.1535080653, 'loan_type': 0, 'repayment_date': 44}]
+2026-05-05 21:24:12,204 - Stocklogger - DEBUG - cash: 1690824.2969766962, stock a: 36583, stock b:24916, debt: [{'loan': 'yes', 'amount': 987912.4431850523, 'loan_type': 1, 'repayment_date': 44}]
+2026-05-05 21:24:12,204 - Stocklogger - DEBUG - cash: 290948.8359438944, stock a: 99433, stock b:1884, debt: [{'loan': 'yes', 'amount': 2702935.664947228, 'loan_type': 0, 'repayment_date': 132}]
+2026-05-05 21:24:12,204 - Stocklogger - DEBUG - cash: 2854070.7934994097, stock a: 15046, stock b:38863, debt: [{'loan': 'yes', 'amount': 4547098.946902482, 'loan_type': 1, 'repayment_date': 264}]
+2026-05-05 21:24:12,205 - Stocklogger - DEBUG - cash: 337802.16976735776, stock a: 72210, stock b:34577, debt: [{'loan': 'yes', 'amount': 200072.40424930627, 'loan_type': 1, 'repayment_date': 22}]
+2026-05-05 21:24:12,205 - Stocklogger - DEBUG - cash: 378118.6627226279, stock a: 31202, stock b:2174, debt: [{'loan': 'yes', 'amount': 1128371.0629688087, 'loan_type': 1, 'repayment_date': 110}]
+2026-05-05 21:24:12,205 - Stocklogger - DEBUG - cash: 2008072.3292595942, stock a: 55099, stock b:19031, debt: [{'loan': 'yes', 'amount': 3476933.1404608516, 'loan_type': 0, 'repayment_date': 110}]
+2026-05-05 21:24:12,206 - Stocklogger - DEBUG - cash: 1144539.604422115, stock a: 22021, stock b:46783, debt: [{'loan': 'yes', 'amount': 922954.0367071104, 'loan_type': 2, 'repayment_date': 220}]
+2026-05-05 21:24:12,206 - Stocklogger - DEBUG - cash: 98610.46803568363, stock a: 60802, stock b:44063, debt: [{'loan': 'yes', 'amount': 345904.743262036, 'loan_type': 0, 'repayment_date': 264}]
+2026-05-05 21:24:12,206 - Stocklogger - DEBUG - cash: 337140.6457205067, stock a: 152263, stock b:2190, debt: [{'loan': 'yes', 'amount': 2455577.661349636, 'loan_type': 0, 'repayment_date': 110}]
+2026-05-05 21:24:12,206 - Stocklogger - DEBUG - cash: 2243540.355692048, stock a: 26883, stock b:4252, debt: [{'loan': 'yes', 'amount': 878658.3892852212, 'loan_type': 0, 'repayment_date': 198}]
+2026-05-05 21:24:12,207 - Stocklogger - DEBUG - cash: 224232.44557288947, stock a: 130141, stock b:10480, debt: [{'loan': 'yes', 'amount': 1239805.6250076373, 'loan_type': 1, 'repayment_date': 242}]
+2026-05-05 21:24:12,207 - Stocklogger - DEBUG - cash: 3678451.111722506, stock a: 20217, stock b:13347, debt: [{'loan': 'yes', 'amount': 1869760.8418180284, 'loan_type': 1, 'repayment_date': 264}]
+2026-05-05 21:24:12,207 - Stocklogger - DEBUG - cash: 1692459.0656118316, stock a: 22719, stock b:954, debt: [{'loan': 'yes', 'amount': 661210.7043880161, 'loan_type': 1, 'repayment_date': 88}]
+2026-05-05 21:24:12,207 - Stocklogger - DEBUG - cash: 2371486.2633218532, stock a: 51201, stock b:3886, debt: [{'loan': 'yes', 'amount': 657979.8988316904, 'loan_type': 2, 'repayment_date': 66}]
+2026-05-05 21:24:12,208 - Stocklogger - DEBUG - cash: 184058.12126579712, stock a: 105814, stock b:29089, debt: [{'loan': 'yes', 'amount': 4062499.363238074, 'loan_type': 2, 'repayment_date': 176}]
+2026-05-05 21:24:12,208 - Stocklogger - DEBUG - cash: 3226424.35800873, stock a: 6632, stock b:30284, debt: [{'loan': 'yes', 'amount': 1081786.5764886765, 'loan_type': 1, 'repayment_date': 264}]
+2026-05-05 21:24:12,208 - Stocklogger - DEBUG - cash: 1033751.4550483135, stock a: 206, stock b:49005, debt: [{'loan': 'yes', 'amount': 1333275.9676069766, 'loan_type': 0, 'repayment_date': 264}]
+2026-05-05 21:24:12,208 - Stocklogger - DEBUG - --------Simulation Start!--------
+2026-05-05 21:24:12,209 - Stocklogger - DEBUG - --------DAY 1---------
+2026-05-05 21:24:39,786 - Stocklogger - DEBUG - Agents initial...
+2026-05-05 21:24:39,786 - Stocklogger - DEBUG - cash: 1319228.2159010293, stock a: 14371, stock b:32207, debt: [{'loan': 'yes', 'amount': 1227753.7849500459, 'loan_type': 1, 'repayment_date': 88}]
+2026-05-05 21:24:39,786 - Stocklogger - DEBUG - cash: 3600928.4845194, stock a: 32519, stock b:4175, debt: [{'loan': 'yes', 'amount': 2598571.748691938, 'loan_type': 1, 'repayment_date': 66}]
+2026-05-05 21:24:39,787 - Stocklogger - DEBUG - cash: 2897229.5513786385, stock a: 55371, stock b:9646, debt: [{'loan': 'yes', 'amount': 2027607.9145595992, 'loan_type': 0, 'repayment_date': 242}]
+2026-05-05 21:24:39,787 - Stocklogger - DEBUG - cash: 1541664.9146002415, stock a: 10191, stock b:59362, debt: [{'loan': 'yes', 'amount': 1054129.3076346891, 'loan_type': 1, 'repayment_date': 44}]
+2026-05-05 21:24:39,787 - Stocklogger - DEBUG - cash: 721937.5752231177, stock a: 128232, stock b:1814, debt: [{'loan': 'yes', 'amount': 2493428.7144218874, 'loan_type': 1, 'repayment_date': 198}]
+2026-05-05 21:24:39,788 - Stocklogger - DEBUG - cash: 3907309.688463329, stock a: 7644, stock b:17721, debt: [{'loan': 'yes', 'amount': 2008971.7051668565, 'loan_type': 1, 'repayment_date': 88}]
+2026-05-05 21:24:39,788 - Stocklogger - DEBUG - cash: 994188.4214808844, stock a: 29690, stock b:68969, debt: [{'loan': 'yes', 'amount': 4491086.054414105, 'loan_type': 0, 'repayment_date': 242}]
+2026-05-05 21:24:39,788 - Stocklogger - DEBUG - cash: 150591.83359964867, stock a: 81898, stock b:32447, debt: [{'loan': 'yes', 'amount': 642903.6619592587, 'loan_type': 1, 'repayment_date': 88}]
+2026-05-05 21:24:39,788 - Stocklogger - DEBUG - cash: 3859682.508134735, stock a: 14772, stock b:10760, debt: [{'loan': 'yes', 'amount': 476382.2525013389, 'loan_type': 1, 'repayment_date': 176}]
+2026-05-05 21:24:39,789 - Stocklogger - DEBUG - cash: 2014778.1772982765, stock a: 23375, stock b:2541, debt: [{'loan': 'yes', 'amount': 828860.6318236658, 'loan_type': 0, 'repayment_date': 132}]
+2026-05-05 21:24:39,789 - Stocklogger - DEBUG - cash: 572207.3252882598, stock a: 78173, stock b:28610, debt: [{'loan': 'yes', 'amount': 3539068.935927159, 'loan_type': 2, 'repayment_date': 132}]
+2026-05-05 21:24:39,790 - Stocklogger - DEBUG - cash: 1289158.6143633155, stock a: 86512, stock b:13189, debt: [{'loan': 'yes', 'amount': 2212868.8699502503, 'loan_type': 0, 'repayment_date': 242}]
+2026-05-05 21:24:39,811 - Stocklogger - DEBUG - cash: 175572.4098717154, stock a: 32811, stock b:63824, debt: [{'loan': 'yes', 'amount': 3613507.933428401, 'loan_type': 2, 'repayment_date': 264}]
+2026-05-05 21:24:39,812 - Stocklogger - DEBUG - cash: 1666494.2443709485, stock a: 6557, stock b:73512, debt: [{'loan': 'yes', 'amount': 1861419.085471312, 'loan_type': 2, 'repayment_date': 154}]
+2026-05-05 21:24:39,812 - Stocklogger - DEBUG - cash: 1890350.698200879, stock a: 44929, stock b:32701, debt: [{'loan': 'yes', 'amount': 905133.9757325044, 'loan_type': 2, 'repayment_date': 176}]
+2026-05-05 21:24:39,813 - Stocklogger - DEBUG - cash: 949046.0427351693, stock a: 81155, stock b:32544, debt: [{'loan': 'yes', 'amount': 402792.5531952725, 'loan_type': 1, 'repayment_date': 44}]
+2026-05-05 21:24:39,813 - Stocklogger - DEBUG - cash: 781687.9854584591, stock a: 28244, stock b:29375, debt: [{'loan': 'yes', 'amount': 414731.3999578667, 'loan_type': 2, 'repayment_date': 22}]
+2026-05-05 21:24:39,813 - Stocklogger - DEBUG - cash: 1470602.5349140633, stock a: 9460, stock b:28120, debt: [{'loan': 'yes', 'amount': 1645642.5995087125, 'loan_type': 0, 'repayment_date': 220}]
+2026-05-05 21:24:39,813 - Stocklogger - DEBUG - cash: 1036944.610119398, stock a: 63151, stock b:10149, debt: [{'loan': 'yes', 'amount': 2158619.667700455, 'loan_type': 2, 'repayment_date': 110}]
+2026-05-05 21:24:39,813 - Stocklogger - DEBUG - cash: 2533166.736225322, stock a: 38017, stock b:9216, debt: [{'loan': 'yes', 'amount': 1552326.9011290097, 'loan_type': 1, 'repayment_date': 88}]
+2026-05-05 21:24:39,814 - Stocklogger - DEBUG - cash: 1773007.2985454786, stock a: 84151, stock b:16587, debt: [{'loan': 'yes', 'amount': 2489518.0766145834, 'loan_type': 2, 'repayment_date': 110}]
+2026-05-05 21:24:39,814 - Stocklogger - DEBUG - cash: 600743.209147222, stock a: 40483, stock b:45364, debt: [{'loan': 'yes', 'amount': 978807.9414062722, 'loan_type': 0, 'repayment_date': 176}]
+2026-05-05 21:24:39,814 - Stocklogger - DEBUG - cash: 27262.77660774379, stock a: 38490, stock b:54822, debt: [{'loan': 'yes', 'amount': 1535465.1820739678, 'loan_type': 1, 'repayment_date': 198}]
+2026-05-05 21:24:39,814 - Stocklogger - DEBUG - cash: 669845.4639426843, stock a: 10242, stock b:41992, debt: [{'loan': 'yes', 'amount': 1026545.2828872023, 'loan_type': 2, 'repayment_date': 44}]
+2026-05-05 21:24:39,814 - Stocklogger - DEBUG - cash: 565278.7064984132, stock a: 49462, stock b:27711, debt: [{'loan': 'yes', 'amount': 2198276.592676788, 'loan_type': 2, 'repayment_date': 66}]
+2026-05-05 21:24:39,815 - Stocklogger - DEBUG - cash: 120025.0275500353, stock a: 60215, stock b:67090, debt: [{'loan': 'yes', 'amount': 167981.49742387302, 'loan_type': 0, 'repayment_date': 22}]
+2026-05-05 21:24:39,815 - Stocklogger - DEBUG - cash: 606910.191944679, stock a: 68960, stock b:33907, debt: [{'loan': 'yes', 'amount': 1689532.668049476, 'loan_type': 0, 'repayment_date': 176}]
+2026-05-05 21:24:39,815 - Stocklogger - DEBUG - cash: 814075.3492310094, stock a: 94432, stock b:6640, debt: [{'loan': 'yes', 'amount': 2226591.80349103, 'loan_type': 1, 'repayment_date': 242}]
+2026-05-05 21:24:39,815 - Stocklogger - DEBUG - cash: 1935281.0812524257, stock a: 69786, stock b:10867, debt: [{'loan': 'yes', 'amount': 965890.2166527667, 'loan_type': 0, 'repayment_date': 198}]
+2026-05-05 21:24:39,816 - Stocklogger - DEBUG - cash: 1029785.7059040621, stock a: 44065, stock b:39735, debt: [{'loan': 'yes', 'amount': 1700347.6769871595, 'loan_type': 1, 'repayment_date': 66}]
+2026-05-05 21:24:39,816 - Stocklogger - DEBUG - cash: 284360.520278239, stock a: 2343, stock b:42768, debt: [{'loan': 'yes', 'amount': 1255928.9790086886, 'loan_type': 2, 'repayment_date': 132}]
+2026-05-05 21:24:39,816 - Stocklogger - DEBUG - cash: 135980.38001465585, stock a: 85991, stock b:22266, debt: [{'loan': 'yes', 'amount': 2264388.0266079213, 'loan_type': 2, 'repayment_date': 22}]
+2026-05-05 21:24:39,816 - Stocklogger - DEBUG - cash: 1526498.266829175, stock a: 52781, stock b:28096, debt: [{'loan': 'yes', 'amount': 1043414.5258135602, 'loan_type': 2, 'repayment_date': 198}]
+2026-05-05 21:24:39,816 - Stocklogger - DEBUG - cash: 1354544.1742258118, stock a: 23456, stock b:61230, debt: [{'loan': 'yes', 'amount': 3020101.443820482, 'loan_type': 0, 'repayment_date': 220}]
+2026-05-05 21:24:39,817 - Stocklogger - DEBUG - cash: 2873702.1883558445, stock a: 52110, stock b:13892, debt: [{'loan': 'yes', 'amount': 2223434.724513021, 'loan_type': 2, 'repayment_date': 44}]
+2026-05-05 21:24:39,817 - Stocklogger - DEBUG - cash: 1406784.3516708277, stock a: 33795, stock b:50375, debt: [{'loan': 'yes', 'amount': 1818365.7143722842, 'loan_type': 0, 'repayment_date': 110}]
+2026-05-05 21:24:39,817 - Stocklogger - DEBUG - cash: 2284416.5973807275, stock a: 20728, stock b:46325, debt: [{'loan': 'yes', 'amount': 725635.518964547, 'loan_type': 2, 'repayment_date': 110}]
+2026-05-05 21:24:39,817 - Stocklogger - DEBUG - cash: 1597421.7223593222, stock a: 9425, stock b:9868, debt: [{'loan': 'yes', 'amount': 1071832.6746870987, 'loan_type': 0, 'repayment_date': 264}]
+2026-05-05 21:24:39,817 - Stocklogger - DEBUG - cash: 2083204.6510849423, stock a: 27383, stock b:49513, debt: [{'loan': 'yes', 'amount': 3533456.541753538, 'loan_type': 1, 'repayment_date': 88}]
+2026-05-05 21:24:39,817 - Stocklogger - DEBUG - cash: 42157.27126028468, stock a: 45576, stock b:82726, debt: [{'loan': 'yes', 'amount': 4691622.577970419, 'loan_type': 1, 'repayment_date': 176}]
+2026-05-05 21:24:39,818 - Stocklogger - DEBUG - cash: 94824.12793306528, stock a: 54192, stock b:76445, debt: [{'loan': 'yes', 'amount': 2837778.5901600113, 'loan_type': 2, 'repayment_date': 22}]
+2026-05-05 21:24:39,818 - Stocklogger - DEBUG - cash: 126857.57693740862, stock a: 80910, stock b:18976, debt: [{'loan': 'yes', 'amount': 279287.1241819533, 'loan_type': 1, 'repayment_date': 132}]
+2026-05-05 21:24:39,818 - Stocklogger - DEBUG - cash: 1957798.1180102944, stock a: 57972, stock b:17022, debt: [{'loan': 'yes', 'amount': 3349407.4594285046, 'loan_type': 2, 'repayment_date': 154}]
+2026-05-05 21:24:39,818 - Stocklogger - DEBUG - cash: 135934.09356240148, stock a: 66213, stock b:59288, debt: [{'loan': 'yes', 'amount': 1683598.4982249364, 'loan_type': 2, 'repayment_date': 176}]
+2026-05-05 21:24:39,819 - Stocklogger - DEBUG - cash: 361521.3127997069, stock a: 36714, stock b:75653, debt: [{'loan': 'yes', 'amount': 4038610.7219813177, 'loan_type': 2, 'repayment_date': 132}]
+2026-05-05 21:24:39,819 - Stocklogger - DEBUG - cash: 981113.0142371127, stock a: 80076, stock b:34089, debt: [{'loan': 'yes', 'amount': 3128049.2869647695, 'loan_type': 0, 'repayment_date': 132}]
+2026-05-05 21:24:39,819 - Stocklogger - DEBUG - cash: 2459357.9273834904, stock a: 74291, stock b:2767, debt: [{'loan': 'yes', 'amount': 1331399.3653270635, 'loan_type': 2, 'repayment_date': 264}]
+2026-05-05 21:24:39,820 - Stocklogger - DEBUG - cash: 2098737.5176428584, stock a: 83959, stock b:7850, debt: [{'loan': 'yes', 'amount': 4600087.494234558, 'loan_type': 0, 'repayment_date': 66}]
+2026-05-05 21:24:39,820 - Stocklogger - DEBUG - cash: 638671.4995138465, stock a: 62100, stock b:42029, debt: [{'loan': 'yes', 'amount': 2732838.1490333606, 'loan_type': 0, 'repayment_date': 198}]
+2026-05-05 21:24:39,820 - Stocklogger - DEBUG - cash: 3280020.050098651, stock a: 17662, stock b:28470, debt: [{'loan': 'yes', 'amount': 4118935.7762982445, 'loan_type': 2, 'repayment_date': 176}]
+2026-05-05 21:24:39,820 - Stocklogger - DEBUG - --------Simulation Start!--------
+2026-05-05 21:24:39,820 - Stocklogger - DEBUG - --------DAY 1---------
+2026-05-05 21:24:40,335 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:24:41,803 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:24:42,814 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:24:43,296 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:24:44,887 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:24:45,888 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:24:46,434 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:24:47,926 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:24:48,939 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:24:49,413 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:24:50,859 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:24:51,872 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:24:52,354 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:24:53,850 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:24:54,865 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:24:55,338 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:24:56,787 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:24:57,799 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:24:58,280 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:24:59,737 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:00,744 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:25:01,215 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:02,655 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:03,664 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:25:04,139 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:05,865 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:06,879 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:25:07,353 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:08,824 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:09,824 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:25:10,308 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:11,756 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:12,761 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:25:13,238 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:14,709 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:15,713 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:25:16,181 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:17,638 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:18,643 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:25:19,252 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:20,806 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:21,808 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:25:22,306 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:23,799 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:24,808 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:25:25,424 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:26,881 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:27,891 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:25:28,352 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:29,816 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:30,831 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:25:31,308 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:32,758 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:33,767 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:25:34,236 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:35,695 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:36,696 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:25:37,167 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:38,606 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:39,617 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:25:40,074 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:41,528 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:42,542 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:25:43,035 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:44,541 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:45,547 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:25:46,013 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:47,470 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:48,479 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:25:48,961 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:50,410 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:51,423 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:25:51,879 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:53,347 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:54,352 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:25:54,821 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:56,298 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:57,307 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:25:57,842 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:25:59,279 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:00,295 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:26:00,769 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:02,221 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:03,233 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:26:03,709 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:05,178 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:06,194 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:26:06,675 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:08,255 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:09,258 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:26:09,875 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:11,333 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:12,335 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:26:12,797 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:14,244 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:15,244 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:26:15,707 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:17,151 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:18,157 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:26:18,690 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:20,175 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:21,184 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:26:21,669 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:23,169 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:24,178 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:26:24,649 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:26,100 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:27,103 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:26:27,566 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:29,182 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:30,197 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:26:30,676 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:32,116 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:33,125 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:26:33,586 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:35,044 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:36,053 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:26:36,515 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:37,961 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:38,974 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:26:39,458 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:40,960 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:41,971 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:26:42,447 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:43,891 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:44,901 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:26:45,747 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:47,212 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:48,219 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:26:48,704 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:50,143 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:51,149 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:26:51,680 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:53,163 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:54,179 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:26:54,658 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:56,180 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:57,191 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:26:57,650 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:26:59,105 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:27:00,105 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:27:00,593 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:27:02,073 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:27:03,073 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:27:03,541 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:27:04,989 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:27:05,991 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:27:06,465 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:27:07,913 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:27:08,926 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:27:08,927 - Stocklogger - DEBUG - SESSION 1
+2026-05-05 21:27:09,411 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:27:10,853 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:27:11,869 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:33:23,738 - Stocklogger - DEBUG - Agents initial...
+2026-05-05 21:33:23,739 - Stocklogger - DEBUG - cash: 1893841.0887407735, stock a: 62302, stock b:24864, debt: [{'loan': 'yes', 'amount': 2646921.461510065, 'loan_type': 0, 'repayment_date': 220}]
+2026-05-05 21:33:23,739 - Stocklogger - DEBUG - cash: 1897006.9321739657, stock a: 67424, stock b:4289, debt: [{'loan': 'yes', 'amount': 431189.9248319834, 'loan_type': 2, 'repayment_date': 22}]
+2026-05-05 21:33:23,740 - Stocklogger - DEBUG - cash: 638283.2040324787, stock a: 32773, stock b:68287, debt: [{'loan': 'yes', 'amount': 2797790.9406544827, 'loan_type': 0, 'repayment_date': 198}]
+2026-05-05 21:33:23,740 - Stocklogger - DEBUG - cash: 492747.31756334787, stock a: 13226, stock b:94701, debt: [{'loan': 'yes', 'amount': 175608.6908365867, 'loan_type': 1, 'repayment_date': 88}]
+2026-05-05 21:33:23,740 - Stocklogger - DEBUG - cash: 711932.0809320817, stock a: 14966, stock b:73997, debt: [{'loan': 'yes', 'amount': 3959171.3921591626, 'loan_type': 1, 'repayment_date': 88}]
+2026-05-05 21:33:23,740 - Stocklogger - DEBUG - cash: 544399.1011647109, stock a: 89308, stock b:24242, debt: [{'loan': 'yes', 'amount': 3067429.8922376786, 'loan_type': 1, 'repayment_date': 154}]
+2026-05-05 21:33:23,741 - Stocklogger - DEBUG - cash: 637248.3959074604, stock a: 80232, stock b:30926, debt: [{'loan': 'yes', 'amount': 2206239.188570275, 'loan_type': 0, 'repayment_date': 110}]
+2026-05-05 21:33:23,741 - Stocklogger - DEBUG - cash: 37090.21684237035, stock a: 73186, stock b:51235, debt: [{'loan': 'yes', 'amount': 3711120.4012774667, 'loan_type': 1, 'repayment_date': 132}]
+2026-05-05 21:33:23,741 - Stocklogger - DEBUG - cash: 1715260.90890197, stock a: 90655, stock b:11943, debt: [{'loan': 'yes', 'amount': 771779.1287679631, 'loan_type': 2, 'repayment_date': 132}]
+2026-05-05 21:33:23,742 - Stocklogger - DEBUG - cash: 475320.76895758335, stock a: 130874, stock b:13226, debt: [{'loan': 'yes', 'amount': 3854820.789116365, 'loan_type': 0, 'repayment_date': 220}]
+2026-05-05 21:33:23,742 - Stocklogger - DEBUG - cash: 296558.36250531365, stock a: 4317, stock b:87217, debt: [{'loan': 'yes', 'amount': 965287.053252224, 'loan_type': 1, 'repayment_date': 220}]
+2026-05-05 21:33:23,742 - Stocklogger - DEBUG - cash: 530564.8861114548, stock a: 53079, stock b:62161, debt: [{'loan': 'yes', 'amount': 2392159.3618399478, 'loan_type': 1, 'repayment_date': 154}]
+2026-05-05 21:33:23,767 - Stocklogger - DEBUG - cash: 1507566.5215985756, stock a: 38150, stock b:25024, debt: [{'loan': 'yes', 'amount': 2645784.3114988278, 'loan_type': 1, 'repayment_date': 88}]
+2026-05-05 21:33:23,767 - Stocklogger - DEBUG - cash: 830950.3350533138, stock a: 4703, stock b:59375, debt: [{'loan': 'yes', 'amount': 2706491.6330403346, 'loan_type': 2, 'repayment_date': 176}]
+2026-05-05 21:33:23,768 - Stocklogger - DEBUG - cash: 2672467.5865316195, stock a: 55230, stock b:6389, debt: [{'loan': 'yes', 'amount': 2667389.091194514, 'loan_type': 0, 'repayment_date': 242}]
+2026-05-05 21:33:23,768 - Stocklogger - DEBUG - cash: 96935.99808352771, stock a: 104203, stock b:27813, debt: [{'loan': 'yes', 'amount': 1756600.193199193, 'loan_type': 0, 'repayment_date': 220}]
+2026-05-05 21:33:23,768 - Stocklogger - DEBUG - cash: 1149963.8282554226, stock a: 18456, stock b:62633, debt: [{'loan': 'yes', 'amount': 3495702.345802573, 'loan_type': 0, 'repayment_date': 154}]
+2026-05-05 21:33:23,769 - Stocklogger - DEBUG - cash: 3021815.2597607933, stock a: 22349, stock b:2566, debt: [{'loan': 'yes', 'amount': 2856121.71516158, 'loan_type': 0, 'repayment_date': 88}]
+2026-05-05 21:33:23,769 - Stocklogger - DEBUG - cash: 1890375.6745828937, stock a: 30288, stock b:15890, debt: [{'loan': 'yes', 'amount': 590142.6238005575, 'loan_type': 1, 'repayment_date': 132}]
+2026-05-05 21:33:23,769 - Stocklogger - DEBUG - cash: 2253908.295953608, stock a: 18410, stock b:7604, debt: [{'loan': 'yes', 'amount': 2090807.8048965156, 'loan_type': 1, 'repayment_date': 154}]
+2026-05-05 21:33:23,770 - Stocklogger - DEBUG - cash: 3023984.5546311676, stock a: 42057, stock b:13118, debt: [{'loan': 'yes', 'amount': 4365431.252005765, 'loan_type': 0, 'repayment_date': 132}]
+2026-05-05 21:33:23,770 - Stocklogger - DEBUG - cash: 801780.1622160614, stock a: 7731, stock b:57895, debt: [{'loan': 'yes', 'amount': 2890723.587212264, 'loan_type': 0, 'repayment_date': 66}]
+2026-05-05 21:33:23,770 - Stocklogger - DEBUG - cash: 823320.865596695, stock a: 280, stock b:90467, debt: [{'loan': 'yes', 'amount': 2199221.78657939, 'loan_type': 0, 'repayment_date': 44}]
+2026-05-05 21:33:23,771 - Stocklogger - DEBUG - cash: 1099601.4155996186, stock a: 8242, stock b:50190, debt: [{'loan': 'yes', 'amount': 740495.2054757391, 'loan_type': 1, 'repayment_date': 154}]
+2026-05-05 21:33:23,771 - Stocklogger - DEBUG - cash: 3458033.729843213, stock a: 6548, stock b:23513, debt: [{'loan': 'yes', 'amount': 394302.3898676229, 'loan_type': 1, 'repayment_date': 176}]
+2026-05-05 21:33:23,771 - Stocklogger - DEBUG - cash: 36690.57839398693, stock a: 7603, stock b:60239, debt: [{'loan': 'yes', 'amount': 2469161.1397828655, 'loan_type': 0, 'repayment_date': 198}]
+2026-05-05 21:33:23,772 - Stocklogger - DEBUG - cash: 272249.2589847769, stock a: 73607, stock b:45676, debt: [{'loan': 'yes', 'amount': 143183.29228495964, 'loan_type': 1, 'repayment_date': 132}]
+2026-05-05 21:33:23,772 - Stocklogger - DEBUG - cash: 1507701.273073715, stock a: 48304, stock b:16451, debt: [{'loan': 'yes', 'amount': 956013.8552355274, 'loan_type': 0, 'repayment_date': 220}]
+2026-05-05 21:33:23,772 - Stocklogger - DEBUG - cash: 2816710.3235873347, stock a: 13866, stock b:6830, debt: [{'loan': 'yes', 'amount': 2481482.588207956, 'loan_type': 1, 'repayment_date': 132}]
+2026-05-05 21:33:23,772 - Stocklogger - DEBUG - cash: 1380202.5329997735, stock a: 7226, stock b:36104, debt: [{'loan': 'yes', 'amount': 2494142.291914013, 'loan_type': 1, 'repayment_date': 176}]
+2026-05-05 21:33:23,773 - Stocklogger - DEBUG - cash: 34308.4676207489, stock a: 42397, stock b:86594, debt: [{'loan': 'yes', 'amount': 1440995.118930995, 'loan_type': 0, 'repayment_date': 154}]
+2026-05-05 21:33:23,773 - Stocklogger - DEBUG - cash: 1375835.7043919468, stock a: 23436, stock b:61757, debt: [{'loan': 'yes', 'amount': 371119.9190791076, 'loan_type': 1, 'repayment_date': 242}]
+2026-05-05 21:33:23,773 - Stocklogger - DEBUG - cash: 2379050.3304827325, stock a: 51576, stock b:26413, debt: [{'loan': 'yes', 'amount': 4747562.818185035, 'loan_type': 2, 'repayment_date': 242}]
+2026-05-05 21:33:23,774 - Stocklogger - DEBUG - cash: 952965.7057860458, stock a: 25978, stock b:78199, debt: [{'loan': 'yes', 'amount': 971753.4532332023, 'loan_type': 1, 'repayment_date': 242}]
+2026-05-05 21:33:23,774 - Stocklogger - DEBUG - cash: 1800892.4933816479, stock a: 42898, stock b:43605, debt: [{'loan': 'yes', 'amount': 3852925.938791131, 'loan_type': 2, 'repayment_date': 22}]
+2026-05-05 21:33:23,774 - Stocklogger - DEBUG - cash: 360534.99113857077, stock a: 30284, stock b:73615, debt: [{'loan': 'yes', 'amount': 2848160.4518560264, 'loan_type': 1, 'repayment_date': 22}]
+2026-05-05 21:33:23,775 - Stocklogger - DEBUG - cash: 1970843.8348789697, stock a: 6483, stock b:24383, debt: [{'loan': 'yes', 'amount': 2110716.9037946844, 'loan_type': 1, 'repayment_date': 198}]
+2026-05-05 21:33:23,775 - Stocklogger - DEBUG - cash: 2640070.3251362317, stock a: 29372, stock b:25801, debt: [{'loan': 'yes', 'amount': 3313311.7957766564, 'loan_type': 0, 'repayment_date': 44}]
+2026-05-05 21:33:23,776 - Stocklogger - DEBUG - cash: 46809.060954865476, stock a: 49450, stock b:69866, debt: [{'loan': 'yes', 'amount': 988807.7157654207, 'loan_type': 2, 'repayment_date': 44}]
+2026-05-05 21:33:23,776 - Stocklogger - DEBUG - cash: 513214.18904344493, stock a: 43236, stock b:66568, debt: [{'loan': 'yes', 'amount': 4214064.908072954, 'loan_type': 2, 'repayment_date': 22}]
+2026-05-05 21:33:23,776 - Stocklogger - DEBUG - cash: 50252.141719642765, stock a: 72047, stock b:17032, debt: [{'loan': 'yes', 'amount': 2359689.9930617632, 'loan_type': 1, 'repayment_date': 242}]
+2026-05-05 21:33:23,776 - Stocklogger - DEBUG - cash: 661269.3484908894, stock a: 112826, stock b:2543, debt: [{'loan': 'yes', 'amount': 335021.0812227633, 'loan_type': 1, 'repayment_date': 110}]
+2026-05-05 21:33:23,777 - Stocklogger - DEBUG - cash: 452043.9205200422, stock a: 32062, stock b:36328, debt: [{'loan': 'yes', 'amount': 2558031.522624868, 'loan_type': 1, 'repayment_date': 198}]
+2026-05-05 21:33:23,777 - Stocklogger - DEBUG - cash: 452774.07595462893, stock a: 90525, stock b:25657, debt: [{'loan': 'yes', 'amount': 2039742.2147863125, 'loan_type': 0, 'repayment_date': 154}]
+2026-05-05 21:33:23,778 - Stocklogger - DEBUG - cash: 1110349.2462804592, stock a: 64904, stock b:7810, debt: [{'loan': 'yes', 'amount': 1758122.892978099, 'loan_type': 1, 'repayment_date': 198}]
+2026-05-05 21:33:23,778 - Stocklogger - DEBUG - cash: 403543.4777401248, stock a: 17136, stock b:30537, debt: [{'loan': 'yes', 'amount': 2093216.6937787517, 'loan_type': 1, 'repayment_date': 264}]
+2026-05-05 21:33:23,779 - Stocklogger - DEBUG - cash: 3563700.6406872645, stock a: 20010, stock b:12045, debt: [{'loan': 'yes', 'amount': 756509.3959232877, 'loan_type': 1, 'repayment_date': 110}]
+2026-05-05 21:33:23,779 - Stocklogger - DEBUG - cash: 1964630.4560585232, stock a: 59402, stock b:9208, debt: [{'loan': 'yes', 'amount': 589075.4661241798, 'loan_type': 0, 'repayment_date': 44}]
+2026-05-05 21:33:23,779 - Stocklogger - DEBUG - cash: 294974.1927649463, stock a: 100428, stock b:40288, debt: [{'loan': 'yes', 'amount': 4656402.571448556, 'loan_type': 0, 'repayment_date': 176}]
+2026-05-05 21:33:23,780 - Stocklogger - DEBUG - cash: 1475458.1815773894, stock a: 67768, stock b:16267, debt: [{'loan': 'yes', 'amount': 3508269.202139417, 'loan_type': 1, 'repayment_date': 110}]
+2026-05-05 21:33:23,780 - Stocklogger - DEBUG - --------Simulation Start!--------
+2026-05-05 21:33:23,780 - Stocklogger - DEBUG - --------DAY 1---------
+2026-05-05 21:33:24,173 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:25,193 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:26,202 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:33:26,264 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:27,289 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:28,298 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:33:28,340 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:29,381 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:30,391 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:33:30,457 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:31,479 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:32,484 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:33:32,778 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:33,798 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:34,809 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:33:34,856 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:35,876 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:36,891 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:33:36,951 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:37,975 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:38,977 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:33:39,039 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:40,068 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:41,077 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:33:41,147 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:42,170 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:43,172 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:33:43,241 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:44,261 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:45,278 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:33:45,356 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:46,882 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:47,888 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:33:47,952 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:48,976 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:49,978 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:33:50,070 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:51,091 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:52,099 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:33:52,158 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:53,188 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:54,196 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:33:54,261 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:55,289 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:56,289 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:33:56,378 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:57,414 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:58,419 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:33:58,497 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:33:59,536 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:00,540 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:00,608 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:01,648 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:02,652 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:02,712 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:03,764 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:04,780 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:04,824 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:05,842 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:06,855 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:07,046 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:08,075 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:09,085 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:09,132 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:10,150 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:11,165 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:11,227 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:12,256 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:13,269 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:13,351 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:14,380 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:15,384 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:15,440 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:16,456 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:17,457 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:17,519 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:18,540 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:19,541 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:19,596 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:20,681 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:21,694 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:21,795 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:22,823 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:23,832 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:23,877 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:24,898 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:25,902 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:25,967 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:26,986 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:28,001 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:28,038 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:29,064 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:30,072 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:30,133 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:31,162 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:32,165 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:32,211 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:33,229 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:34,232 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:34,535 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:35,577 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:36,593 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:36,675 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:37,710 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:38,715 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:38,787 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:39,809 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:40,817 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:40,884 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:41,914 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:42,929 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:43,000 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:44,024 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:45,032 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:45,095 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:46,124 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:47,130 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:47,234 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:48,258 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:49,269 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:49,879 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:50,912 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:51,916 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:51,979 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:53,004 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:54,020 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:54,103 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:55,119 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:56,131 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:56,197 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:57,221 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:58,228 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:34:58,296 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:34:59,315 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:35:00,327 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:35:00,404 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:35:01,435 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:35:02,437 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:35:02,505 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:35:03,524 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:35:04,531 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:35:04,577 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:35:05,604 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:35:06,608 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:35:06,660 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:35:07,688 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:35:08,700 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:35:08,760 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:35:09,788 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:35:10,799 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:35:10,800 - Stocklogger - DEBUG - SESSION 1
+2026-05-05 21:35:10,896 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:35:11,919 - Stocklogger - WARNING - Gemini api retry...Error code: 403 - {'error': {'message': 'This model is not available in your region.', 'code': 403}}
+2026-05-05 21:35:12,930 - Stocklogger - ERROR - ERROR: GEMINI API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:51:36,184 - Stocklogger - DEBUG - Agents initial...
+2026-05-05 21:51:36,184 - Stocklogger - DEBUG - cash: 562704.3831649664, stock a: 3883, stock b:83977, debt: [{'loan': 'yes', 'amount': 1005587.4374666351, 'loan_type': 2, 'repayment_date': 44}]
+2026-05-05 21:51:36,185 - Stocklogger - DEBUG - cash: 632035.8705585832, stock a: 75574, stock b:25930, debt: [{'loan': 'yes', 'amount': 524233.7160895694, 'loan_type': 2, 'repayment_date': 88}]
+2026-05-05 21:51:36,185 - Stocklogger - DEBUG - cash: 2246353.2014627396, stock a: 33281, stock b:13488, debt: [{'loan': 'yes', 'amount': 176961.98937047936, 'loan_type': 2, 'repayment_date': 176}]
+2026-05-05 21:51:36,186 - Stocklogger - DEBUG - cash: 738419.3156008589, stock a: 97831, stock b:4844, debt: [{'loan': 'yes', 'amount': 2785311.734953812, 'loan_type': 0, 'repayment_date': 154}]
+2026-05-05 21:51:36,186 - Stocklogger - DEBUG - cash: 630782.2578222705, stock a: 24657, stock b:75806, debt: [{'loan': 'yes', 'amount': 3532880.2457654164, 'loan_type': 0, 'repayment_date': 22}]
+2026-05-05 21:51:36,186 - Stocklogger - DEBUG - cash: 728628.5268453868, stock a: 67822, stock b:22962, debt: [{'loan': 'yes', 'amount': 1273299.1962186347, 'loan_type': 0, 'repayment_date': 198}]
+2026-05-05 21:51:36,186 - Stocklogger - DEBUG - cash: 373917.7608990313, stock a: 17404, stock b:56516, debt: [{'loan': 'yes', 'amount': 2143823.001044096, 'loan_type': 0, 'repayment_date': 66}]
+2026-05-05 21:51:36,187 - Stocklogger - DEBUG - cash: 563702.5641905691, stock a: 896, stock b:67404, debt: [{'loan': 'yes', 'amount': 1031169.928479041, 'loan_type': 0, 'repayment_date': 264}]
+2026-05-05 21:51:36,187 - Stocklogger - DEBUG - cash: 1504870.7560733326, stock a: 51474, stock b:38990, debt: [{'loan': 'yes', 'amount': 2109695.209762713, 'loan_type': 1, 'repayment_date': 220}]
+2026-05-05 21:51:36,187 - Stocklogger - DEBUG - cash: 1542071.992629564, stock a: 10396, stock b:59179, debt: [{'loan': 'yes', 'amount': 3382826.0099757137, 'loan_type': 0, 'repayment_date': 66}]
+2026-05-05 21:51:36,188 - Stocklogger - DEBUG - cash: 475830.12709805527, stock a: 48506, stock b:39295, debt: [{'loan': 'yes', 'amount': 2774346.9142832616, 'loan_type': 2, 'repayment_date': 198}]
+2026-05-05 21:51:36,188 - Stocklogger - DEBUG - cash: 500360.49898620596, stock a: 14554, stock b:90943, debt: [{'loan': 'yes', 'amount': 846125.3446522399, 'loan_type': 0, 'repayment_date': 22}]
+2026-05-05 21:51:36,205 - Stocklogger - DEBUG - cash: 1978664.1450269688, stock a: 35571, stock b:35732, debt: [{'loan': 'yes', 'amount': 1312857.755287471, 'loan_type': 0, 'repayment_date': 132}]
+2026-05-05 21:51:36,206 - Stocklogger - DEBUG - cash: 848284.2296946347, stock a: 104186, stock b:12819, debt: [{'loan': 'yes', 'amount': 2798826.596684249, 'loan_type': 1, 'repayment_date': 44}]
+2026-05-05 21:51:36,206 - Stocklogger - DEBUG - cash: 343854.3222716517, stock a: 11923, stock b:60182, debt: [{'loan': 'yes', 'amount': 984765.8800673353, 'loan_type': 2, 'repayment_date': 154}]
+2026-05-05 21:51:36,207 - Stocklogger - DEBUG - cash: 1658414.634559074, stock a: 31851, stock b:25050, debt: [{'loan': 'yes', 'amount': 2297086.636861117, 'loan_type': 2, 'repayment_date': 132}]
+2026-05-05 21:51:36,207 - Stocklogger - DEBUG - cash: 640618.5258401958, stock a: 105811, stock b:5476, debt: [{'loan': 'yes', 'amount': 2203400.680994325, 'loan_type': 1, 'repayment_date': 44}]
+2026-05-05 21:51:36,208 - Stocklogger - DEBUG - cash: 2327732.6823180816, stock a: 12144, stock b:5122, debt: [{'loan': 'yes', 'amount': 1779158.346828736, 'loan_type': 1, 'repayment_date': 198}]
+2026-05-05 21:51:36,208 - Stocklogger - DEBUG - cash: 942049.4311178834, stock a: 53478, stock b:4090, debt: [{'loan': 'yes', 'amount': 2412474.228560618, 'loan_type': 1, 'repayment_date': 154}]
+2026-05-05 21:51:36,209 - Stocklogger - DEBUG - cash: 757027.5659249409, stock a: 53761, stock b:44010, debt: [{'loan': 'yes', 'amount': 56203.58211321674, 'loan_type': 2, 'repayment_date': 132}]
+2026-05-05 21:51:36,209 - Stocklogger - DEBUG - cash: 2577703.6116575804, stock a: 42165, stock b:15584, debt: [{'loan': 'yes', 'amount': 2241663.478064594, 'loan_type': 2, 'repayment_date': 154}]
+2026-05-05 21:51:36,210 - Stocklogger - DEBUG - cash: 68803.17155632809, stock a: 24411, stock b:64575, debt: [{'loan': 'yes', 'amount': 557153.029845372, 'loan_type': 2, 'repayment_date': 220}]
+2026-05-05 21:51:36,210 - Stocklogger - DEBUG - cash: 220982.8016581139, stock a: 54646, stock b:12562, debt: [{'loan': 'yes', 'amount': 551415.3733516769, 'loan_type': 0, 'repayment_date': 242}]
+2026-05-05 21:51:36,210 - Stocklogger - DEBUG - cash: 2068952.2576147863, stock a: 31162, stock b:9967, debt: [{'loan': 'yes', 'amount': 2528966.074397902, 'loan_type': 0, 'repayment_date': 66}]
+2026-05-05 21:51:36,211 - Stocklogger - DEBUG - cash: 3023507.5583862937, stock a: 7865, stock b:26523, debt: [{'loan': 'yes', 'amount': 1724194.4008862164, 'loan_type': 1, 'repayment_date': 22}]
+2026-05-05 21:51:36,211 - Stocklogger - DEBUG - cash: 2935052.754612754, stock a: 32753, stock b:26910, debt: [{'loan': 'yes', 'amount': 656928.3970264234, 'loan_type': 1, 'repayment_date': 132}]
+2026-05-05 21:51:36,211 - Stocklogger - DEBUG - cash: 1736303.8026806505, stock a: 88280, stock b:6229, debt: [{'loan': 'yes', 'amount': 2970469.004599942, 'loan_type': 1, 'repayment_date': 88}]
+2026-05-05 21:51:36,212 - Stocklogger - DEBUG - cash: 1723877.0831598644, stock a: 77594, stock b:4281, debt: [{'loan': 'yes', 'amount': 1798865.2065224452, 'loan_type': 1, 'repayment_date': 88}]
+2026-05-05 21:51:36,212 - Stocklogger - DEBUG - cash: 2755733.614328344, stock a: 34439, stock b:19337, debt: [{'loan': 'yes', 'amount': 1467140.1605122269, 'loan_type': 0, 'repayment_date': 242}]
+2026-05-05 21:51:36,212 - Stocklogger - DEBUG - cash: 104800.32517638183, stock a: 101204, stock b:10963, debt: [{'loan': 'yes', 'amount': 1655499.5163899483, 'loan_type': 0, 'repayment_date': 264}]
+2026-05-05 21:51:36,213 - Stocklogger - DEBUG - cash: 432989.00753167446, stock a: 29106, stock b:85674, debt: [{'loan': 'yes', 'amount': 4597066.49986718, 'loan_type': 0, 'repayment_date': 110}]
+2026-05-05 21:51:36,213 - Stocklogger - DEBUG - cash: 60337.7672821831, stock a: 10196, stock b:49977, debt: [{'loan': 'yes', 'amount': 2317462.69095113, 'loan_type': 2, 'repayment_date': 22}]
+2026-05-05 21:51:36,213 - Stocklogger - DEBUG - cash: 510518.8265036309, stock a: 52554, stock b:17243, debt: [{'loan': 'yes', 'amount': 2111115.62488187, 'loan_type': 1, 'repayment_date': 132}]
+2026-05-05 21:51:36,214 - Stocklogger - DEBUG - cash: 1716918.4161557604, stock a: 44020, stock b:9481, debt: [{'loan': 'yes', 'amount': 3314919.273678603, 'loan_type': 0, 'repayment_date': 22}]
+2026-05-05 21:51:36,214 - Stocklogger - DEBUG - cash: 723186.702530072, stock a: 52979, stock b:16328, debt: [{'loan': 'yes', 'amount': 1343498.4530676624, 'loan_type': 0, 'repayment_date': 22}]
+2026-05-05 21:51:36,214 - Stocklogger - DEBUG - cash: 1707144.8257403893, stock a: 38237, stock b:40960, debt: [{'loan': 'yes', 'amount': 2948215.721531531, 'loan_type': 0, 'repayment_date': 88}]
+2026-05-05 21:51:36,214 - Stocklogger - DEBUG - cash: 204127.4065910631, stock a: 51847, stock b:68490, debt: [{'loan': 'yes', 'amount': 968927.2938606214, 'loan_type': 1, 'repayment_date': 132}]
+2026-05-05 21:51:36,215 - Stocklogger - DEBUG - cash: 95367.74248765479, stock a: 22551, stock b:44525, debt: [{'loan': 'yes', 'amount': 2373019.7086341474, 'loan_type': 2, 'repayment_date': 44}]
+2026-05-05 21:51:36,215 - Stocklogger - DEBUG - cash: 843867.8289189988, stock a: 44765, stock b:32955, debt: [{'loan': 'yes', 'amount': 1676319.586999031, 'loan_type': 0, 'repayment_date': 264}]
+2026-05-05 21:51:36,216 - Stocklogger - DEBUG - cash: 2844031.271374228, stock a: 54244, stock b:9486, debt: [{'loan': 'yes', 'amount': 1802470.8927523247, 'loan_type': 0, 'repayment_date': 22}]
+2026-05-05 21:51:36,216 - Stocklogger - DEBUG - cash: 2478744.4871737217, stock a: 4420, stock b:38595, debt: [{'loan': 'yes', 'amount': 2240421.271852414, 'loan_type': 1, 'repayment_date': 66}]
+2026-05-05 21:51:36,216 - Stocklogger - DEBUG - cash: 3037735.8770277915, stock a: 1112, stock b:40668, debt: [{'loan': 'yes', 'amount': 3951960.945573262, 'loan_type': 2, 'repayment_date': 198}]
+2026-05-05 21:51:36,217 - Stocklogger - DEBUG - cash: 181945.63868247694, stock a: 95459, stock b:28331, debt: [{'loan': 'yes', 'amount': 828386.690368541, 'loan_type': 0, 'repayment_date': 66}]
+2026-05-05 21:51:36,217 - Stocklogger - DEBUG - cash: 4204285.1644907445, stock a: 11279, stock b:4515, debt: [{'loan': 'yes', 'amount': 4317588.327687537, 'loan_type': 2, 'repayment_date': 154}]
+2026-05-05 21:51:36,217 - Stocklogger - DEBUG - cash: 3147115.4966622596, stock a: 37413, stock b:17529, debt: [{'loan': 'yes', 'amount': 2342782.5315387254, 'loan_type': 1, 'repayment_date': 264}]
+2026-05-05 21:51:36,218 - Stocklogger - DEBUG - cash: 503736.11729022994, stock a: 71401, stock b:55264, debt: [{'loan': 'yes', 'amount': 4611334.794732501, 'loan_type': 0, 'repayment_date': 44}]
+2026-05-05 21:51:36,218 - Stocklogger - DEBUG - cash: 504071.4164425597, stock a: 55476, stock b:22224, debt: [{'loan': 'yes', 'amount': 442503.9686339999, 'loan_type': 0, 'repayment_date': 66}]
+2026-05-05 21:51:36,218 - Stocklogger - DEBUG - cash: 2289823.888387363, stock a: 46444, stock b:2501, debt: [{'loan': 'yes', 'amount': 523342.6005926978, 'loan_type': 0, 'repayment_date': 176}]
+2026-05-05 21:51:36,218 - Stocklogger - DEBUG - cash: 2847128.1412748685, stock a: 27185, stock b:20100, debt: [{'loan': 'yes', 'amount': 2074517.7768946772, 'loan_type': 1, 'repayment_date': 176}]
+2026-05-05 21:51:36,219 - Stocklogger - DEBUG - cash: 180167.95085530225, stock a: 98972, stock b:25472, debt: [{'loan': 'yes', 'amount': 2355424.1067756526, 'loan_type': 2, 'repayment_date': 44}]
+2026-05-05 21:51:36,219 - Stocklogger - DEBUG - --------Simulation Start!--------
+2026-05-05 21:51:36,219 - Stocklogger - DEBUG - --------DAY 1---------
+2026-05-05 21:51:36,774 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:51:38,220 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:51:39,227 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:51:39,699 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:51:41,142 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:51:42,146 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:51:42,641 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:51:44,121 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:51:45,134 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:51:45,604 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:51:47,049 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:51:48,064 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:51:48,540 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:51:49,999 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:51:51,013 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:51:51,577 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:51:53,026 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:51:54,034 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:51:54,512 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:51:55,964 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:51:56,977 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:51:57,467 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:51:58,944 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:51:59,959 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:52:00,522 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:52:01,971 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:52:02,980 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:52:03,478 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:52:04,971 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:52:05,973 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:52:06,457 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:52:07,955 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:52:08,964 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:52:09,426 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:52:10,886 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:52:11,897 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:52:12,414 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:52:13,859 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:52:14,873 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:52:15,356 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:52:16,828 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:52:17,834 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:52:18,304 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:52:19,764 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:52:20,768 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:52:21,288 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:52:22,795 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:52:23,810 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:52:24,270 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:52:25,716 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:52:26,717 - Stocklogger - ERROR - ERROR: DEEPSEEK API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:52:27,252 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:52:28,702 - Stocklogger - WARNING - DeepSeek api retry...Error code: 402 - {'error': {'message': 'Insufficient Balance', 'type': 'unknown_error', 'param': None, 'code': 'invalid_request_error'}}
+2026-05-05 21:54:16,417 - Stocklogger - DEBUG - Agents initial...
+2026-05-05 21:54:16,417 - Stocklogger - DEBUG - cash: 4175154.398815941, stock a: 4722, stock b:10804, debt: [{'loan': 'yes', 'amount': 1567708.6793770855, 'loan_type': 1, 'repayment_date': 88}]
+2026-05-05 21:54:16,417 - Stocklogger - DEBUG - cash: 2742774.2245782563, stock a: 50375, stock b:9749, debt: [{'loan': 'yes', 'amount': 3167820.4025885975, 'loan_type': 1, 'repayment_date': 22}]
+2026-05-05 21:54:16,418 - Stocklogger - DEBUG - cash: 882339.7585915598, stock a: 20138, stock b:68981, debt: [{'loan': 'yes', 'amount': 1931407.5833903789, 'loan_type': 0, 'repayment_date': 110}]
+2026-05-05 21:54:16,418 - Stocklogger - DEBUG - cash: 557519.2077078545, stock a: 89401, stock b:15889, debt: [{'loan': 'yes', 'amount': 3282491.5032279957, 'loan_type': 0, 'repayment_date': 66}]
+2026-05-05 21:54:16,418 - Stocklogger - DEBUG - cash: 728555.9392454949, stock a: 59208, stock b:9069, debt: [{'loan': 'yes', 'amount': 2147543.710286398, 'loan_type': 2, 'repayment_date': 242}]
+2026-05-05 21:54:16,418 - Stocklogger - DEBUG - cash: 341218.22879101813, stock a: 47627, stock b:28894, debt: [{'loan': 'yes', 'amount': 520927.1492891643, 'loan_type': 0, 'repayment_date': 66}]
+2026-05-05 21:54:16,419 - Stocklogger - DEBUG - cash: 1027019.9720773431, stock a: 16431, stock b:75504, debt: [{'loan': 'yes', 'amount': 4437533.429590886, 'loan_type': 1, 'repayment_date': 66}]
+2026-05-05 21:54:16,419 - Stocklogger - DEBUG - cash: 248786.65211297557, stock a: 47516, stock b:75651, debt: [{'loan': 'yes', 'amount': 586011.5958289381, 'loan_type': 0, 'repayment_date': 176}]
+2026-05-05 21:54:16,419 - Stocklogger - DEBUG - cash: 3094508.549493324, stock a: 3697, stock b:10319, debt: [{'loan': 'yes', 'amount': 3421142.455797385, 'loan_type': 0, 'repayment_date': 88}]
+2026-05-05 21:54:16,420 - Stocklogger - DEBUG - cash: 252862.63828786294, stock a: 2751, stock b:82847, debt: [{'loan': 'yes', 'amount': 1367356.2297879232, 'loan_type': 1, 'repayment_date': 110}]
+2026-05-05 21:54:16,420 - Stocklogger - DEBUG - cash: 2308037.594219847, stock a: 21875, stock b:23322, debt: [{'loan': 'yes', 'amount': 1090514.4103784864, 'loan_type': 1, 'repayment_date': 110}]
+2026-05-05 21:54:16,421 - Stocklogger - DEBUG - cash: 747229.1222594169, stock a: 95287, stock b:18793, debt: [{'loan': 'yes', 'amount': 1103844.6740481134, 'loan_type': 1, 'repayment_date': 198}]
+2026-05-05 21:54:16,449 - Stocklogger - DEBUG - cash: 1654852.793778312, stock a: 7023, stock b:62645, debt: [{'loan': 'yes', 'amount': 1183946.1279165875, 'loan_type': 2, 'repayment_date': 22}]
+2026-05-05 21:54:16,450 - Stocklogger - DEBUG - cash: 2872945.220255113, stock a: 23775, stock b:1208, debt: [{'loan': 'yes', 'amount': 3022501.4678026354, 'loan_type': 2, 'repayment_date': 44}]
+2026-05-05 21:54:16,450 - Stocklogger - DEBUG - cash: 2356284.775097606, stock a: 3720, stock b:55115, debt: [{'loan': 'yes', 'amount': 1817060.2954702086, 'loan_type': 0, 'repayment_date': 154}]
+2026-05-05 21:54:16,450 - Stocklogger - DEBUG - cash: 2755291.663937322, stock a: 24368, stock b:31752, debt: [{'loan': 'yes', 'amount': 861312.1305988114, 'loan_type': 2, 'repayment_date': 264}]
+2026-05-05 21:54:16,450 - Stocklogger - DEBUG - cash: 1894206.4970969597, stock a: 47959, stock b:11239, debt: [{'loan': 'yes', 'amount': 2973731.8574643293, 'loan_type': 2, 'repayment_date': 176}]
+2026-05-05 21:54:16,451 - Stocklogger - DEBUG - cash: 2822313.694587355, stock a: 3826, stock b:45711, debt: [{'loan': 'yes', 'amount': 3988642.4250874193, 'loan_type': 2, 'repayment_date': 44}]
+2026-05-05 21:54:16,451 - Stocklogger - DEBUG - cash: 2387450.3697737292, stock a: 25264, stock b:8665, debt: [{'loan': 'yes', 'amount': 1336528.139840593, 'loan_type': 1, 'repayment_date': 242}]
+2026-05-05 21:54:16,451 - Stocklogger - DEBUG - cash: 548523.6240655727, stock a: 31476, stock b:54678, debt: [{'loan': 'yes', 'amount': 2117519.773342408, 'loan_type': 0, 'repayment_date': 264}]
+2026-05-05 21:54:16,451 - Stocklogger - DEBUG - cash: 3760412.4849623553, stock a: 9427, stock b:22356, debt: [{'loan': 'yes', 'amount': 277273.44980232493, 'loan_type': 2, 'repayment_date': 110}]
+2026-05-05 21:54:16,451 - Stocklogger - DEBUG - cash: 3188982.1383040464, stock a: 5445, stock b:9448, debt: [{'loan': 'yes', 'amount': 1834869.364543742, 'loan_type': 0, 'repayment_date': 176}]
+2026-05-05 21:54:16,452 - Stocklogger - DEBUG - cash: 1040650.5093202933, stock a: 9271, stock b:43198, debt: [{'loan': 'yes', 'amount': 2827321.2372495593, 'loan_type': 0, 'repayment_date': 66}]
+2026-05-05 21:54:16,452 - Stocklogger - DEBUG - cash: 1054789.5823852106, stock a: 83467, stock b:25226, debt: [{'loan': 'yes', 'amount': 4535278.507723393, 'loan_type': 1, 'repayment_date': 110}]
+2026-05-05 21:54:16,452 - Stocklogger - DEBUG - cash: 906388.1370510857, stock a: 107598, stock b:7444, debt: [{'loan': 'yes', 'amount': 292793.68713101826, 'loan_type': 1, 'repayment_date': 110}]
+2026-05-05 21:54:16,452 - Stocklogger - DEBUG - cash: 504288.23724852636, stock a: 92329, stock b:19053, debt: [{'loan': 'yes', 'amount': 2197055.688942929, 'loan_type': 0, 'repayment_date': 44}]
+2026-05-05 21:54:16,452 - Stocklogger - DEBUG - cash: 1287143.053208425, stock a: 81574, stock b:6, debt: [{'loan': 'yes', 'amount': 1023684.0316106438, 'loan_type': 1, 'repayment_date': 220}]
+2026-05-05 21:54:16,453 - Stocklogger - DEBUG - cash: 489224.4087577746, stock a: 84144, stock b:38784, debt: [{'loan': 'yes', 'amount': 2306017.5684330617, 'loan_type': 1, 'repayment_date': 22}]
+2026-05-05 21:54:16,453 - Stocklogger - DEBUG - cash: 1099159.216811062, stock a: 38142, stock b:43860, debt: [{'loan': 'yes', 'amount': 3995162.9946117755, 'loan_type': 0, 'repayment_date': 44}]
+2026-05-05 21:54:16,454 - Stocklogger - DEBUG - cash: 1073071.9275138061, stock a: 94857, stock b:3774, debt: [{'loan': 'yes', 'amount': 890067.4562595468, 'loan_type': 1, 'repayment_date': 220}]
+2026-05-05 21:54:16,454 - Stocklogger - DEBUG - cash: 1645886.304408134, stock a: 37511, stock b:28443, debt: [{'loan': 'yes', 'amount': 2592589.5710950946, 'loan_type': 0, 'repayment_date': 132}]
+2026-05-05 21:54:16,454 - Stocklogger - DEBUG - cash: 3219431.4560215985, stock a: 22076, stock b:22300, debt: [{'loan': 'yes', 'amount': 1436252.7987230062, 'loan_type': 2, 'repayment_date': 242}]
+2026-05-05 21:54:16,454 - Stocklogger - DEBUG - cash: 521495.57257975097, stock a: 17875, stock b:30795, debt: [{'loan': 'yes', 'amount': 987127.5678496417, 'loan_type': 2, 'repayment_date': 88}]
+2026-05-05 21:54:16,455 - Stocklogger - DEBUG - cash: 1319427.797312112, stock a: 11740, stock b:29592, debt: [{'loan': 'yes', 'amount': 1813797.3074406616, 'loan_type': 0, 'repayment_date': 264}]
+2026-05-05 21:54:16,455 - Stocklogger - DEBUG - cash: 7009.65206524573, stock a: 32512, stock b:24069, debt: [{'loan': 'yes', 'amount': 487486.7904070052, 'loan_type': 1, 'repayment_date': 154}]
+2026-05-05 21:54:16,455 - Stocklogger - DEBUG - cash: 1626448.229046835, stock a: 16844, stock b:23798, debt: [{'loan': 'yes', 'amount': 2262369.0395736718, 'loan_type': 1, 'repayment_date': 176}]
+2026-05-05 21:54:16,455 - Stocklogger - DEBUG - cash: 515293.239673047, stock a: 18291, stock b:84494, debt: [{'loan': 'yes', 'amount': 144925.74412641014, 'loan_type': 2, 'repayment_date': 44}]
+2026-05-05 21:54:16,456 - Stocklogger - DEBUG - cash: 1593651.1163670474, stock a: 15184, stock b:26525, debt: [{'loan': 'yes', 'amount': 2589557.6836967627, 'loan_type': 2, 'repayment_date': 66}]
+2026-05-05 21:54:16,456 - Stocklogger - DEBUG - cash: 1319454.0275611184, stock a: 43612, stock b:33783, debt: [{'loan': 'yes', 'amount': 2362590.3491412625, 'loan_type': 2, 'repayment_date': 132}]
+2026-05-05 21:54:16,456 - Stocklogger - DEBUG - cash: 1575605.0184156434, stock a: 36230, stock b:50520, debt: [{'loan': 'yes', 'amount': 453635.98133200954, 'loan_type': 1, 'repayment_date': 110}]
+2026-05-05 21:54:16,456 - Stocklogger - DEBUG - cash: 2135111.6193052065, stock a: 24071, stock b:52289, debt: [{'loan': 'yes', 'amount': 3537523.744226147, 'loan_type': 2, 'repayment_date': 220}]
+2026-05-05 21:54:16,456 - Stocklogger - DEBUG - cash: 2203617.96113872, stock a: 6126, stock b:64205, debt: [{'loan': 'yes', 'amount': 1254366.9892504339, 'loan_type': 0, 'repayment_date': 220}]
+2026-05-05 21:54:16,457 - Stocklogger - DEBUG - cash: 1183847.9103808869, stock a: 87338, stock b:6599, debt: [{'loan': 'yes', 'amount': 2033400.6337943722, 'loan_type': 0, 'repayment_date': 154}]
+2026-05-05 21:54:16,457 - Stocklogger - DEBUG - cash: 585017.7398245815, stock a: 48976, stock b:63422, debt: [{'loan': 'yes', 'amount': 2898170.9561337098, 'loan_type': 0, 'repayment_date': 66}]
+2026-05-05 21:54:16,457 - Stocklogger - DEBUG - cash: 1029103.8379808343, stock a: 19027, stock b:12193, debt: [{'loan': 'yes', 'amount': 1979486.9586662522, 'loan_type': 1, 'repayment_date': 110}]
+2026-05-05 21:54:16,458 - Stocklogger - DEBUG - cash: 1325405.3536622885, stock a: 112, stock b:90252, debt: [{'loan': 'yes', 'amount': 2692579.07976565, 'loan_type': 2, 'repayment_date': 154}]
+2026-05-05 21:54:16,459 - Stocklogger - DEBUG - cash: 2230636.4449497717, stock a: 34565, stock b:23228, debt: [{'loan': 'yes', 'amount': 1126770.0565596544, 'loan_type': 1, 'repayment_date': 242}]
+2026-05-05 21:54:16,459 - Stocklogger - DEBUG - cash: 257896.55514659447, stock a: 110856, stock b:4019, debt: [{'loan': 'yes', 'amount': 3037737.5100676436, 'loan_type': 1, 'repayment_date': 132}]
+2026-05-05 21:54:16,459 - Stocklogger - DEBUG - cash: 1192832.7778088131, stock a: 19470, stock b:30643, debt: [{'loan': 'yes', 'amount': 2636574.101815323, 'loan_type': 0, 'repayment_date': 132}]
+2026-05-05 21:54:16,460 - Stocklogger - DEBUG - cash: 1727514.2552824118, stock a: 12741, stock b:68472, debt: [{'loan': 'yes', 'amount': 1940937.5709210807, 'loan_type': 0, 'repayment_date': 242}]
+2026-05-05 21:54:16,460 - Stocklogger - DEBUG - --------Simulation Start!--------
+2026-05-05 21:54:16,460 - Stocklogger - DEBUG - --------DAY 1---------
+2026-05-05 21:54:16,841 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:17,899 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 9090. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:18,913 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:54:19,007 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:20,069 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:21,081 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:54:21,490 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 9090. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:22,537 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11764. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:23,547 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:54:23,687 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 9090. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:24,743 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:25,748 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:54:25,887 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 9090. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:26,957 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11764. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:27,971 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:54:28,026 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:29,078 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 9090. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:30,095 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:54:30,653 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:31,693 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:32,697 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:54:32,776 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:33,832 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:34,838 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:54:34,952 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:36,008 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 9090. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:37,011 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:54:37,135 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11764. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:38,553 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:39,554 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:54:39,624 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:40,667 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:41,671 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:54:41,754 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 9090. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:42,802 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 9090. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:43,808 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:54:44,407 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:45,443 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:46,449 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:54:46,521 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 14367. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:47,567 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:48,579 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:54:49,105 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11764. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:50,162 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 9090. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:51,169 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:54:51,264 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:52,308 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:53,315 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:54:53,455 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 9090. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:54,513 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:55,523 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:54:55,606 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11764. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:56,689 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:57,701 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:54:57,791 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 9090. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:58,837 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:54:59,837 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:54:59,915 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 9090. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:00,951 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:01,962 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:55:02,041 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:03,075 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 9090. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:04,087 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:55:04,163 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 9090. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:05,208 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:06,211 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:55:06,344 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:07,418 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:08,432 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:55:08,533 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 9090. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:09,574 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:10,587 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:55:10,696 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 9090. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:11,741 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:12,754 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:55:12,853 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11764. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:13,942 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:14,957 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:55:15,044 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 9090. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:16,178 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 9090. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:17,193 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:55:17,279 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:19,068 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:20,075 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:55:20,156 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:21,195 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:22,200 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:55:22,257 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11764. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:23,304 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:24,310 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:55:24,399 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:25,436 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:26,443 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:55:26,522 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 9090. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:27,572 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 11494. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 21:55:28,576 - Stocklogger - ERROR - ERROR: OPENROUTER API FAILED. SKIP THIS INTERACTION.
+2026-05-05 21:55:28,708 - Stocklogger - WARNING - OpenRouter api retry...Error code: 402 - {'error': {'message': 'This request requires more credits, or fewer max_tokens. You requested up to 65536 tokens, but can only afford 9090. To increase, visit https://openrouter.ai/settings/credits and upgrade to a paid account', 'code': 402, 'metadata': {'provider_name': None}}, 'user_id': 'user_38cTMR9ajQju4SgYhOXGasQztDV'}
+2026-05-05 22:00:30,655 - Stocklogger - DEBUG - Agents initial...
+2026-05-05 22:00:30,656 - Stocklogger - DEBUG - cash: 2262816.658039603, stock a: 29543, stock b:19260, debt: [{'loan': 'yes', 'amount': 1683657.4560955442, 'loan_type': 2, 'repayment_date': 220}]
+2026-05-05 22:00:30,656 - Stocklogger - DEBUG - cash: 634992.8987554504, stock a: 27812, stock b:27127, debt: [{'loan': 'yes', 'amount': 1679819.6200198461, 'loan_type': 0, 'repayment_date': 242}]
+2026-05-05 22:00:30,657 - Stocklogger - DEBUG - cash: 1237026.6408934838, stock a: 83160, stock b:18937, debt: [{'loan': 'yes', 'amount': 2791076.3651727517, 'loan_type': 0, 'repayment_date': 220}]
+2026-05-05 22:00:30,657 - Stocklogger - DEBUG - cash: 1898224.4879062616, stock a: 32012, stock b:35977, debt: [{'loan': 'yes', 'amount': 2380371.19761023, 'loan_type': 0, 'repayment_date': 154}]
+2026-05-05 22:00:30,657 - Stocklogger - DEBUG - cash: 218777.40982495787, stock a: 69960, stock b:49613, debt: [{'loan': 'yes', 'amount': 362423.7149728993, 'loan_type': 2, 'repayment_date': 44}]
+2026-05-05 22:00:30,658 - Stocklogger - DEBUG - cash: 507267.0153820602, stock a: 127378, stock b:4260, debt: [{'loan': 'yes', 'amount': 97748.16399914732, 'loan_type': 1, 'repayment_date': 198}]
+2026-05-05 22:00:30,658 - Stocklogger - DEBUG - cash: 405557.3765710141, stock a: 102219, stock b:25667, debt: [{'loan': 'yes', 'amount': 2980893.956533581, 'loan_type': 0, 'repayment_date': 22}]
+2026-05-05 22:00:30,658 - Stocklogger - DEBUG - cash: 1061988.0038592406, stock a: 88629, stock b:28921, debt: [{'loan': 'yes', 'amount': 4064289.3506139996, 'loan_type': 2, 'repayment_date': 264}]
+2026-05-05 22:00:30,659 - Stocklogger - DEBUG - cash: 472295.88316956675, stock a: 38394, stock b:79275, debt: [{'loan': 'yes', 'amount': 612876.9733248384, 'loan_type': 0, 'repayment_date': 198}]
+2026-05-05 22:00:30,660 - Stocklogger - DEBUG - cash: 1336635.6496435, stock a: 41387, stock b:57202, debt: [{'loan': 'yes', 'amount': 816891.2153896336, 'loan_type': 0, 'repayment_date': 22}]
+2026-05-05 22:00:30,660 - Stocklogger - DEBUG - cash: 563146.4844873407, stock a: 86928, stock b:41988, debt: [{'loan': 'yes', 'amount': 2089706.955158881, 'loan_type': 2, 'repayment_date': 66}]
+2026-05-05 22:00:30,660 - Stocklogger - DEBUG - cash: 82827.86268591191, stock a: 55413, stock b:61351, debt: [{'loan': 'yes', 'amount': 3845270.7893725806, 'loan_type': 0, 'repayment_date': 44}]
+2026-05-05 22:00:30,690 - Stocklogger - DEBUG - cash: 814200.5916111317, stock a: 17895, stock b:33601, debt: [{'loan': 'yes', 'amount': 2672415.3622578694, 'loan_type': 2, 'repayment_date': 264}]
+2026-05-05 22:00:30,691 - Stocklogger - DEBUG - cash: 1285122.6625800822, stock a: 17375, stock b:9292, debt: [{'loan': 'yes', 'amount': 502304.5963322581, 'loan_type': 1, 'repayment_date': 242}]
+2026-05-05 22:00:30,691 - Stocklogger - DEBUG - cash: 1232993.2405881267, stock a: 29722, stock b:63912, debt: [{'loan': 'yes', 'amount': 4487134.76174831, 'loan_type': 1, 'repayment_date': 242}]
+2026-05-05 22:00:30,692 - Stocklogger - DEBUG - cash: 401259.056014322, stock a: 150245, stock b:634, debt: [{'loan': 'yes', 'amount': 4631137.131998504, 'loan_type': 0, 'repayment_date': 22}]
+2026-05-05 22:00:30,692 - Stocklogger - DEBUG - cash: 2247454.699379595, stock a: 55044, stock b:15881, debt: [{'loan': 'yes', 'amount': 3465554.8413286707, 'loan_type': 0, 'repayment_date': 132}]
+2026-05-05 22:00:30,692 - Stocklogger - DEBUG - cash: 3397907.58752795, stock a: 27399, stock b:5090, debt: [{'loan': 'yes', 'amount': 160905.0468005957, 'loan_type': 2, 'repayment_date': 110}]
+2026-05-05 22:00:30,692 - Stocklogger - DEBUG - cash: 1030809.1777914175, stock a: 11441, stock b:79984, debt: [{'loan': 'yes', 'amount': 1081021.4633295557, 'loan_type': 1, 'repayment_date': 132}]
+2026-05-05 22:00:30,693 - Stocklogger - DEBUG - cash: 562740.4137362196, stock a: 39374, stock b:21863, debt: [{'loan': 'yes', 'amount': 96925.99117809841, 'loan_type': 0, 'repayment_date': 44}]
+2026-05-05 22:00:30,693 - Stocklogger - DEBUG - cash: 829457.6113309981, stock a: 6371, stock b:5759, debt: [{'loan': 'yes', 'amount': 1000833.3313517853, 'loan_type': 1, 'repayment_date': 22}]
+2026-05-05 22:00:30,693 - Stocklogger - DEBUG - cash: 2573988.586832632, stock a: 40759, stock b:27387, debt: [{'loan': 'yes', 'amount': 4706300.077587599, 'loan_type': 2, 'repayment_date': 44}]
+2026-05-05 22:00:30,694 - Stocklogger - DEBUG - cash: 249840.80433517852, stock a: 43718, stock b:85646, debt: [{'loan': 'yes', 'amount': 4501563.070932589, 'loan_type': 2, 'repayment_date': 88}]
+2026-05-05 22:00:30,694 - Stocklogger - DEBUG - cash: 1692558.2248787612, stock a: 19198, stock b:8838, debt: [{'loan': 'yes', 'amount': 557824.3872100292, 'loan_type': 2, 'repayment_date': 242}]
+2026-05-05 22:00:30,694 - Stocklogger - DEBUG - cash: 3708086.7777203256, stock a: 9164, stock b:3538, debt: [{'loan': 'yes', 'amount': 1688255.2806221435, 'loan_type': 0, 'repayment_date': 154}]
+2026-05-05 22:00:30,694 - Stocklogger - DEBUG - cash: 1659254.8052439375, stock a: 68898, stock b:30426, debt: [{'loan': 'yes', 'amount': 305324.2063444539, 'loan_type': 0, 'repayment_date': 220}]
+2026-05-05 22:00:30,695 - Stocklogger - DEBUG - cash: 1731326.7237861268, stock a: 14319, stock b:46996, debt: [{'loan': 'yes', 'amount': 3156538.46697594, 'loan_type': 0, 'repayment_date': 88}]
+2026-05-05 22:00:30,695 - Stocklogger - DEBUG - cash: 491230.6607675126, stock a: 94685, stock b:40367, debt: [{'loan': 'yes', 'amount': 241510.87747166955, 'loan_type': 0, 'repayment_date': 22}]
+2026-05-05 22:00:30,695 - Stocklogger - DEBUG - cash: 766120.866906711, stock a: 24805, stock b:14664, debt: [{'loan': 'yes', 'amount': 1653417.0855176877, 'loan_type': 0, 'repayment_date': 264}]
+2026-05-05 22:00:30,696 - Stocklogger - DEBUG - cash: 3196909.6736326558, stock a: 5, stock b:33321, debt: [{'loan': 'yes', 'amount': 4070394.7410001913, 'loan_type': 1, 'repayment_date': 220}]
+2026-05-05 22:00:30,696 - Stocklogger - DEBUG - cash: 235576.52011075846, stock a: 79924, stock b:2491, debt: [{'loan': 'yes', 'amount': 1526548.4430301073, 'loan_type': 0, 'repayment_date': 22}]
+2026-05-05 22:00:30,696 - Stocklogger - DEBUG - cash: 2975914.1948166005, stock a: 21311, stock b:11434, debt: [{'loan': 'yes', 'amount': 2262163.2693707626, 'loan_type': 2, 'repayment_date': 88}]
+2026-05-05 22:00:30,698 - Stocklogger - DEBUG - cash: 1124251.5174797175, stock a: 51033, stock b:16991, debt: [{'loan': 'yes', 'amount': 2456477.1662967713, 'loan_type': 2, 'repayment_date': 110}]
+2026-05-05 22:00:30,698 - Stocklogger - DEBUG - cash: 254273.58789334996, stock a: 74944, stock b:37064, debt: [{'loan': 'yes', 'amount': 2009002.5896729568, 'loan_type': 1, 'repayment_date': 220}]
+2026-05-05 22:00:30,698 - Stocklogger - DEBUG - cash: 156736.53556484036, stock a: 11649, stock b:112118, debt: [{'loan': 'yes', 'amount': 2650561.495463275, 'loan_type': 1, 'repayment_date': 66}]
+2026-05-05 22:00:30,699 - Stocklogger - DEBUG - cash: 950336.3169177886, stock a: 21410, stock b:70914, debt: [{'loan': 'yes', 'amount': 3500388.4491958637, 'loan_type': 1, 'repayment_date': 220}]
+2026-05-05 22:00:30,699 - Stocklogger - DEBUG - cash: 2547313.1593484855, stock a: 36109, stock b:5446, debt: [{'loan': 'yes', 'amount': 3085288.887623396, 'loan_type': 2, 'repayment_date': 132}]
+2026-05-05 22:00:30,699 - Stocklogger - DEBUG - cash: 241699.68223158477, stock a: 97321, stock b:8379, debt: [{'loan': 'yes', 'amount': 1052658.4694796426, 'loan_type': 1, 'repayment_date': 220}]
+2026-05-05 22:00:30,700 - Stocklogger - DEBUG - cash: 925720.0414564837, stock a: 75085, stock b:30266, debt: [{'loan': 'yes', 'amount': 2554627.9752228647, 'loan_type': 2, 'repayment_date': 132}]
+2026-05-05 22:00:30,700 - Stocklogger - DEBUG - cash: 919511.4841911445, stock a: 113273, stock b:5360, debt: [{'loan': 'yes', 'amount': 847672.2015835686, 'loan_type': 0, 'repayment_date': 198}]
+2026-05-05 22:00:30,700 - Stocklogger - DEBUG - cash: 183388.04894813764, stock a: 39283, stock b:84579, debt: [{'loan': 'yes', 'amount': 3442258.530425723, 'loan_type': 2, 'repayment_date': 66}]
+2026-05-05 22:00:30,701 - Stocklogger - DEBUG - cash: 263692.1598528241, stock a: 58624, stock b:38370, debt: [{'loan': 'yes', 'amount': 53082.93119469509, 'loan_type': 2, 'repayment_date': 44}]
+2026-05-05 22:00:30,701 - Stocklogger - DEBUG - cash: 125934.94648633075, stock a: 63856, stock b:51548, debt: [{'loan': 'yes', 'amount': 2165929.671998453, 'loan_type': 1, 'repayment_date': 198}]
+2026-05-05 22:00:30,701 - Stocklogger - DEBUG - cash: 3383819.4073948925, stock a: 6309, stock b:27957, debt: [{'loan': 'yes', 'amount': 1412470.3703536578, 'loan_type': 2, 'repayment_date': 132}]
+2026-05-05 22:00:30,702 - Stocklogger - DEBUG - cash: 1113747.7148507752, stock a: 742, stock b:83623, debt: [{'loan': 'yes', 'amount': 200192.6812780558, 'loan_type': 0, 'repayment_date': 220}]
+2026-05-05 22:00:30,702 - Stocklogger - DEBUG - cash: 315402.48585867626, stock a: 56403, stock b:46336, debt: [{'loan': 'yes', 'amount': 1882192.9858816494, 'loan_type': 1, 'repayment_date': 22}]
+2026-05-05 22:00:30,702 - Stocklogger - DEBUG - cash: 867318.8334373216, stock a: 27192, stock b:19270, debt: [{'loan': 'yes', 'amount': 2310538.4303747383, 'loan_type': 1, 'repayment_date': 176}]
+2026-05-05 22:00:30,703 - Stocklogger - DEBUG - cash: 1597692.6533619957, stock a: 28106, stock b:10996, debt: [{'loan': 'yes', 'amount': 2873833.951098116, 'loan_type': 0, 'repayment_date': 44}]
+2026-05-05 22:00:30,703 - Stocklogger - DEBUG - cash: 1032786.8122427287, stock a: 18731, stock b:37357, debt: [{'loan': 'yes', 'amount': 998023.769703495, 'loan_type': 1, 'repayment_date': 176}]
+2026-05-05 22:00:30,703 - Stocklogger - DEBUG - cash: 843106.167956803, stock a: 3495, stock b:99294, debt: [{'loan': 'yes', 'amount': 2995809.1257415093, 'loan_type': 0, 'repayment_date': 264}]
+2026-05-05 22:00:30,703 - Stocklogger - DEBUG - --------Simulation Start!--------
+2026-05-05 22:00:30,703 - Stocklogger - DEBUG - --------DAY 1---------
+2026-05-05 22:00:48,576 - Stocklogger - DEBUG - Wrong json content in response: None
+2026-05-05 22:01:19,126 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-05-05 22:01:55,781 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-05-05 22:02:13,961 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-05-05 22:02:13,961 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-05-05 22:02:13,962 - Stocklogger - INFO - INFO: Agent 0 decide not to loan
+2026-05-05 22:02:36,946 - Stocklogger - DEBUG - Wrong json content in response: None
+2026-05-05 22:02:54,025 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-05-05 22:03:25,973 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-05-05 22:03:35,849 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-05-05 22:03:35,850 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-05-05 22:03:35,851 - Stocklogger - INFO - INFO: Agent 1 decide not to loan
+2026-05-05 22:04:24,486 - Stocklogger - INFO - INFO: Agent 2 decide to loan: {'loan': 'yes', 'loan_type': 0, 'amount': 500000, 'repayment_date': 23}
+2026-05-05 22:10:35,796 - Stocklogger - DEBUG - Agents initial...
+2026-05-05 22:10:35,796 - Stocklogger - DEBUG - cash: 1054973.4588441239, stock a: 28810, stock b:43950, debt: [{'loan': 'yes', 'amount': 2813111.3407442053, 'loan_type': 2, 'repayment_date': 22}]
+2026-05-05 22:10:35,796 - Stocklogger - DEBUG - cash: 762763.0537833485, stock a: 126806, stock b:7065, debt: [{'loan': 'yes', 'amount': 1532183.6052646537, 'loan_type': 2, 'repayment_date': 176}]
+2026-05-05 22:10:35,796 - Stocklogger - DEBUG - cash: 577858.8116902617, stock a: 6902, stock b:88416, debt: [{'loan': 'yes', 'amount': 473931.1760245563, 'loan_type': 0, 'repayment_date': 22}]
+2026-05-05 22:10:35,797 - Stocklogger - DEBUG - --------Simulation Start!--------
+2026-05-05 22:10:35,797 - Stocklogger - DEBUG - --------DAY 1---------
+2026-05-05 22:10:56,173 - Stocklogger - DEBUG - Wrong json content in response: None
+2026-05-05 22:11:05,692 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-05-05 22:11:30,357 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-05-05 22:11:49,570 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-05-05 22:11:49,570 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-05-05 22:11:49,571 - Stocklogger - INFO - INFO: Agent 0 decide not to loan
+2026-05-05 22:12:07,947 - Stocklogger - DEBUG - Wrong json content in response: None
+2026-05-05 22:12:33,555 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-05-05 22:12:53,377 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-05-05 22:13:02,660 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-05-05 22:13:02,661 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-05-05 22:13:02,661 - Stocklogger - INFO - INFO: Agent 1 decide not to loan
+2026-05-05 22:13:22,645 - Stocklogger - DEBUG - Wrong json content in response: None
+2026-05-05 22:13:50,044 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-05-05 22:14:15,806 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-05-05 22:14:34,729 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-05-05 22:14:34,730 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-05-05 22:14:34,730 - Stocklogger - INFO - INFO: Agent 2 decide not to loan
+2026-05-05 22:14:34,731 - Stocklogger - DEBUG - SESSION 1
+2026-05-05 22:14:44,166 - Stocklogger - DEBUG - Wrong json content in response: None
+2026-05-05 22:14:57,794 - Stocklogger - DEBUG - Wrong json content in response: None
+2026-05-05 22:15:00,254 - Stocklogger - INFO - INFO: Agent 1 decide to action: {'action_type': 'buy', 'stock': 'B', 'amount': 500, 'price': 40.2}
+2026-05-05 22:20:17,642 - Stocklogger - DEBUG - Agents initial...
+2026-05-05 22:20:17,643 - Stocklogger - DEBUG - cash: 1224240.3467703161, stock a: 9785, stock b:47663, debt: [{'loan': 'yes', 'amount': 908649.7768854152, 'loan_type': 2, 'repayment_date': 22}]
+2026-05-05 22:20:17,643 - Stocklogger - DEBUG - cash: 1520203.0485937523, stock a: 28066, stock b:43861, debt: [{'loan': 'yes', 'amount': 345424.37083518674, 'loan_type': 0, 'repayment_date': 198}]
+2026-05-05 22:20:17,643 - Stocklogger - DEBUG - cash: 215868.37045776908, stock a: 47223, stock b:30449, debt: [{'loan': 'yes', 'amount': 1775889.654704404, 'loan_type': 0, 'repayment_date': 132}]
+2026-05-05 22:20:17,644 - Stocklogger - DEBUG - --------Simulation Start!--------
+2026-05-05 22:20:17,644 - Stocklogger - DEBUG - --------DAY 1---------
+2026-05-05 22:20:40,882 - Stocklogger - INFO - INFO: Agent 0 decide not to loan
+2026-05-05 22:21:20,090 - Stocklogger - INFO - INFO: Agent 1 decide to loan: {'loan': 'yes', 'loan_type': 0, 'amount': 345424.37083518674, 'repayment_date': 23}
+2026-05-05 22:21:36,623 - Stocklogger - DEBUG - Wrong json content in response: None
+2026-05-05 22:22:11,386 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-05-05 22:22:27,512 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-05-05 22:22:45,185 - Stocklogger - DEBUG - Wrong json content in response: 1
+2026-05-05 22:22:45,185 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-05-05 22:22:45,186 - Stocklogger - INFO - INFO: Agent 2 decide not to loan
+2026-05-05 22:22:45,186 - Stocklogger - DEBUG - SESSION 1
+2026-05-05 22:23:03,764 - Stocklogger - DEBUG - Wrong json content in response: None
+2026-05-05 22:23:21,441 - Stocklogger - DEBUG - Wrong json content in response: None
+2026-05-05 22:24:12,106 - Stocklogger - INFO - INFO: Agent 1 decide to action: {'action_type': 'buy', 'stock': 'B', 'amount': 10000, 'price': 40.0}
+2026-05-05 22:24:37,319 - Stocklogger - DEBUG - Wrong json content in response: None
+2026-05-05 22:26:01,188 - Stocklogger - INFO - INFO: Agent 0 decide to action: {'action_type': 'sell', 'stock': 'B', 'amount': 10000, 'price': 40.0}
+2026-05-05 22:26:01,375 - Stocklogger - INFO - ACTION - BUY:1, SELL:0, STOCK:B, PRICE:40.0, AMOUNT:10000
+2026-05-05 22:27:12,816 - Stocklogger - INFO - INFO: Agent 2 decide to action: {'action_type': 'buy', 'stock': 'B', 'amount': 3000, 'price': 41.0}
+2026-05-05 22:27:45,620 - Stocklogger - INFO - Agent 0 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'yes', 'loan': 'no'}
+2026-05-05 22:28:53,859 - Stocklogger - INFO - Agent 1 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'yes', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'yes'}
+2026-05-05 22:29:15,706 - Stocklogger - DEBUG - Wrong json content in response: None
+2026-05-05 22:29:40,908 - Stocklogger - INFO - Agent 2 tomorrow estimation: {'buy_A': 'yes', 'buy_B': 'yes', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'yes'}
+2026-05-05 22:29:40,962 - Stocklogger - DEBUG - DAY 1 ends, display forum messages...
+2026-05-05 22:29:51,893 - Stocklogger - INFO - Agent 0 says: Sold all B shares at 40.0 today. While B's growth story is compelling, the history of concealed data and recent regulatory scrutiny raise too many red flags for me. Prefer to lock in gains and hold A for its stable, improving outlook under new management. Stay cautious with B.
+2026-05-05 22:30:05,372 - Stocklogger - INFO - Agent 1 says: Just bought more B. Seeing strong upward momentum, volume confirms. Using a bit of leverage to maximize. A looks shaky, staying away for now. Good luck tomorrow!
+2026-05-05 22:30:22,197 - Stocklogger - INFO - Agent 2 says: Today I bought 3000 shares of B at 41. B’s tech growth story remains intact, and the recent dip seems like a good entry. A is also stabilizing after CEO change, and I expect improvement. Tomorrow I plan to add more to both A and B, possibly using some leverage. Stay nimble!
+2026-05-05 22:30:22,198 - Stocklogger - DEBUG - --------DAY 2---------
+2026-05-05 22:30:40,771 - Stocklogger - DEBUG - Wrong json content in response: None
+2026-05-05 22:31:26,799 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-05-05 22:31:55,320 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-05-05 22:32:35,542 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-05-05 22:32:35,542 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-05-05 22:32:35,542 - Stocklogger - INFO - INFO: Agent 0 decide not to loan
+2026-05-05 22:32:48,784 - Stocklogger - DEBUG - Wrong json content in response: None
+2026-05-05 22:33:01,766 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-05-05 22:33:14,773 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-05-05 22:33:28,722 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-05-05 22:33:28,723 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-05-05 22:33:28,724 - Stocklogger - INFO - INFO: Agent 1 decide not to loan
+2026-05-05 22:33:46,582 - Stocklogger - DEBUG - Wrong json content in response: None
+2026-05-05 22:34:04,156 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-05-05 22:34:21,747 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-05-05 22:34:39,014 - Stocklogger - DEBUG - Wrong json content in response: 2
+2026-05-05 22:34:39,014 - Stocklogger - WARNING - WARNING: Loan format try times > MAX_TRY_TIMES. Skip as no loan today.
+2026-05-05 22:34:39,015 - Stocklogger - INFO - INFO: Agent 2 decide not to loan
+2026-05-05 22:34:39,015 - Stocklogger - DEBUG - SESSION 1
+2026-05-05 22:34:40,491 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:40,640 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:40,793 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:40,969 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:40,969 - Stocklogger - INFO - Agent 0 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-05-05 22:34:41,135 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:41,136 - Stocklogger - INFO - Agent 1 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-05-05 22:34:41,266 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:41,267 - Stocklogger - INFO - Agent 2 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-05-05 22:34:41,300 - Stocklogger - DEBUG - DAY 2 ends, display forum messages...
+2026-05-05 22:34:41,369 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:41,369 - Stocklogger - INFO - Agent 0 says: 
+2026-05-05 22:34:41,454 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:41,455 - Stocklogger - INFO - Agent 1 says: 
+2026-05-05 22:34:41,535 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:41,536 - Stocklogger - INFO - Agent 2 says: 
+2026-05-05 22:34:41,536 - Stocklogger - DEBUG - --------DAY 3---------
+2026-05-05 22:34:41,646 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:41,748 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:41,822 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:41,822 - Stocklogger - DEBUG - SESSION 1
+2026-05-05 22:34:41,883 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:41,993 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:42,083 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:42,253 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:42,254 - Stocklogger - INFO - Agent 0 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-05-05 22:34:42,388 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:42,388 - Stocklogger - INFO - Agent 1 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-05-05 22:34:42,511 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:42,511 - Stocklogger - INFO - Agent 2 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-05-05 22:34:42,540 - Stocklogger - DEBUG - DAY 3 ends, display forum messages...
+2026-05-05 22:34:42,602 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:42,603 - Stocklogger - INFO - Agent 0 says: 
+2026-05-05 22:34:42,683 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:42,683 - Stocklogger - INFO - Agent 1 says: 
+2026-05-05 22:34:42,761 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:42,762 - Stocklogger - INFO - Agent 2 says: 
+2026-05-05 22:34:42,762 - Stocklogger - DEBUG - --------DAY 4---------
+2026-05-05 22:34:42,867 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:43,074 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:43,147 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:43,148 - Stocklogger - DEBUG - SESSION 1
+2026-05-05 22:34:43,223 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:43,339 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:43,465 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:43,612 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:43,613 - Stocklogger - INFO - Agent 0 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-05-05 22:34:43,718 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:43,718 - Stocklogger - INFO - Agent 1 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-05-05 22:34:43,824 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:43,824 - Stocklogger - INFO - Agent 2 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-05-05 22:34:43,866 - Stocklogger - DEBUG - DAY 4 ends, display forum messages...
+2026-05-05 22:34:43,948 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:43,948 - Stocklogger - INFO - Agent 0 says: 
+2026-05-05 22:34:44,026 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:44,027 - Stocklogger - INFO - Agent 1 says: 
+2026-05-05 22:34:44,085 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:44,086 - Stocklogger - INFO - Agent 2 says: 
+2026-05-05 22:34:44,086 - Stocklogger - DEBUG - --------DAY 5---------
+2026-05-05 22:34:44,139 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:44,208 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:44,306 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:44,307 - Stocklogger - DEBUG - SESSION 1
+2026-05-05 22:34:44,392 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:44,502 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:44,616 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:44,753 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:44,753 - Stocklogger - INFO - Agent 0 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-05-05 22:34:44,863 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:44,864 - Stocklogger - INFO - Agent 1 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-05-05 22:34:44,992 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:44,993 - Stocklogger - INFO - Agent 2 tomorrow estimation: {'buy_A': 'no', 'buy_B': 'no', 'sell_A': 'no', 'sell_B': 'no', 'loan': 'no'}
+2026-05-05 22:34:45,021 - Stocklogger - DEBUG - DAY 5 ends, display forum messages...
+2026-05-05 22:34:45,159 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:45,160 - Stocklogger - INFO - Agent 0 says: 
+2026-05-05 22:34:45,230 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:45,231 - Stocklogger - INFO - Agent 1 says: 
+2026-05-05 22:34:45,286 - Stocklogger - ERROR - OpenRouter API 402: not enough credits or max_tokens too high. SKIP THIS INTERACTION.
+2026-05-05 22:34:45,286 - Stocklogger - INFO - Agent 2 says: 
+2026-05-05 22:34:45,287 - Stocklogger - DEBUG - --------Simulation finished!--------
+2026-05-05 22:34:45,287 - Stocklogger - DEBUG - --------Agents action history--------

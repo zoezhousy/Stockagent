@@ -1,6 +1,11 @@
 import pandas as pd
 import os
 
+def ensure_parent_dir(file_name):
+    parent_dir = os.path.dirname(file_name)
+    if parent_dir:
+        os.makedirs(parent_dir, exist_ok=True)
+
 # 交易记录
 class TradeRecord:
     def __init__(self, date, session, stock_type, buyer, seller, quantity, price):
@@ -13,6 +18,7 @@ class TradeRecord:
         self.price = price
 
     def write_to_excel(self, file_name="res/trades.xlsx"):
+        ensure_parent_dir(file_name)
         if os.path.isfile(file_name):
             existing_df = pd.read_excel(file_name)
         else:
@@ -41,6 +47,7 @@ class StockRecord:
         self.stock_b_price = stock_b_price
 
     def write_to_excel(self, file_name="res/stocks.xlsx"):
+        ensure_parent_dir(file_name)
         if os.path.isfile(file_name):
             existing_df = pd.read_excel(file_name)
         else:
@@ -84,6 +91,7 @@ class AgentRecordDaily:
         self.will_sell_b = js["sell_B"]
 
     def write_to_excel(self, file_name="res/agent_day_record.xlsx"):
+        ensure_parent_dir(file_name)
         if os.path.isfile(file_name):
             existing_df = pd.read_excel(file_name)
         else:
@@ -118,6 +126,7 @@ class AgentRecordSession:
             self.price = action_json["price"]
 
     def write_to_excel(self, file_name="res/agent_session_record.xlsx"):
+        ensure_parent_dir(file_name)
         if os.path.isfile(file_name):
             existing_df = pd.read_excel(file_name)
         else:

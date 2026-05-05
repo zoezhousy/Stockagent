@@ -2,21 +2,25 @@ import json
 import os
 import openai
 from log.custom_logger import log
-
+import util
 
 def run_api(model, prompt, temperature: float = 0):
-    openai.api_key = ""
-    client = openai.OpenAI(api_key=openai.api_key)
+    if "deepseek" in model:
+        client = openai.OpenAI(
+            api_key=os.getenv("DEEPSEEK_API_KEY", ""),
+            base_url="https://api.deepseek.com"
+        )
+    else:
+        client = openai.OpenAI(
+            api_key=os.getenv("OPENAI_API_KEY", "")
+        )
+
     response = client.chat.completions.create(
         model=model,
-        messages=[
-            {"role": "user", "content": prompt},
-        ],
+        messages=[{"role": "user", "content": prompt}],
         temperature=temperature,
     )
-    resp = response.choices[0].message.content
-    return resp
-
+    return response.choices[0].message.content
 
 class Secretary:
     def __init__(self, model):
